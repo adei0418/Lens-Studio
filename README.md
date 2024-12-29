@@ -121,7 +121,11 @@ Explore the various features and templates below.
   - Development Workflow
   - Lifecycle
   - Sharing Data Between Partipants
- 
+- **Templates**
+
+#### Materials
+- **Overview**
+
 #### GenAI Suite
 - **Overview**
   - 3D Capture
@@ -129,6 +133,39 @@ Explore the various features and templates below.
   - Bitmoji Animation Generation
   - Body Morph Generation
   - Easy Lens (Beta)
+  - ML Face Effect Generation
+  - Garment Generation
+  - Head Morph Generation
+  - Immersive ML Generation
+
+#### Materials
+- **Overview**
+- **Templates**
+
+#### Particles
+- **Overview**
+  - Introduction and Concepts
+  - VFX Sub-Graph Library
+  - VFX Collisions
+  - VFX Graph Optimization
+  - VFX vs GPU Particles
+- **Templates**
+  - VFX Collision
+  - VFX
+#### Ray Tracing
+- **Overview**
+
+#### Lights, Cameras and Shadows
+- **Overview**
+  - Light and Shadow
+  - Environment Matching
+  - Screen Space Normals Generation
+  - Signed Distance Field Generator
+  - Gaussian Splatting
+  - Person Normals and Depth
+
+
+
 
 ## System Requirements
 
