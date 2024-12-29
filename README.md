@@ -32,57 +32,6 @@ Explore the various features and templates below.
 
 ### Templates & Guides
 
-#### Body Tracking
-- **Overview**
-  - Body & Hand Tracking
-  - Body Segmentation
-  - Body Mesh
-  - Body Mesh Attachments
-  - Upper Body
-  - Head & Neck Tracking
-- **Templates**
-
-
-#### Face Tracking
-- **Overview**
-  - Eye Color
-  - Eye Tracking
-  - Face Expressions
-  - Face Image Picker
-  - Face Image
-  - Face Index
-  - Face Inset
-  - Face Landmarks
-  - Face Liquify
-  - Face Mask
-  - Face Mesh
-  - Face Texture
-  - Hair Component
-  - Head Binding
-- **Templates**
-
-
-#### Hand Tracking
-- **Overview**
-  - 2D Hand Tracking
-  - 3D Hand Interactions
-  - 3D Hand Tracking
-  - 3D Hand VFX
-  - ASL Fingerspelling
-  - Hand Gestures
-  - Hand Segmentation
-- **Templates**
-
-#### World Tracking
-- **Overview**
-  - Device Tracking
-  - Marker Tracking
-  - Object Tracking
-  - World Mesh
-  - World Mesh & Depth Texture
-- **Templates**
-
-
 #### Animations
 - **Overview**
   - Animation Curve Editor
@@ -105,7 +54,6 @@ Explore the various features and templates below.
   - Text To Speech
 - **Templates**
 
-
 #### Bitmoji Avatar
 - **Overview**
   - Bitmoji 2D
@@ -113,6 +61,16 @@ Explore the various features and templates below.
   - Animating Bitmoji 3D
   - Bitmoji Head
   - Adding Bitmoji Props
+- **Templates**
+
+#### Body Tracking
+- **Overview**
+  - Body & Hand Tracking
+  - Body Segmentation
+  - Body Mesh
+  - Body Mesh Attachments
+  - Upper Body
+  - Head & Neck Tracking
 - **Templates**
 
 #### Connected Lenses
@@ -123,8 +81,23 @@ Explore the various features and templates below.
   - Sharing Data Between Partipants
 - **Templates**
 
-#### Materials
+#### Face Tracking
 - **Overview**
+  - Eye Color
+  - Eye Tracking
+  - Face Expressions
+  - Face Image Picker
+  - Face Image
+  - Face Index
+  - Face Inset
+  - Face Landmarks
+  - Face Liquify
+  - Face Mask
+  - Face Mesh
+  - Face Texture
+  - Hair Component
+  - Head Binding
+- **Templates**
 
 #### GenAI Suite
 - **Overview**
@@ -138,9 +111,38 @@ Explore the various features and templates below.
   - Head Morph Generation
   - Immersive ML Generation
 
+#### Hand Tracking
+- **Overview**
+  - 2D Hand Tracking
+  - 3D Hand Interactions
+  - 3D Hand Tracking
+  - 3D Hand VFX
+  - ASL Fingerspelling
+  - Hand Gestures
+  - Hand Segmentation
+- **Templates**
+
+#### Lens Cloud
+- **Overview**
+  - Lens Cloud Overview
+  - Multi-User Services
+  - Location-Based Services
+  - Remote Assets
+  - Storage Services
+ 
+
+#### Lights, Cameras and Shadows
+- **Overview**
+  - Light and Shadow
+  - Environment Matching
+  - Screen Space Normals Generation
+  - Signed Distance Field Generator
+  - Gaussian Splatting
+  - Person Normals and Depth
+
+    
 #### Materials
 - **Overview**
-- **Templates**
 
 #### Particles
 - **Overview**
@@ -152,20 +154,18 @@ Explore the various features and templates below.
 - **Templates**
   - VFX Collision
   - VFX
+
 #### Ray Tracing
 - **Overview**
 
-#### Lights, Cameras and Shadows
+#### World Tracking
 - **Overview**
-  - Light and Shadow
-  - Environment Matching
-  - Screen Space Normals Generation
-  - Signed Distance Field Generator
-  - Gaussian Splatting
-  - Person Normals and Depth
-
-
-
+  - Device Tracking
+  - Marker Tracking
+  - Object Tracking
+  - World Mesh
+  - World Mesh & Depth Texture
+- **Templates**
 
 ## System Requirements
 
