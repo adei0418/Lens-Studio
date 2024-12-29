@@ -40,6 +40,8 @@ Explore the various features and templates below.
   - Body Mesh Attachments
   - Upper Body
   - Head & Neck Tracking
+- **Templates**
+
 
 #### Face Tracking
 - **Overview**
@@ -57,6 +59,8 @@ Explore the various features and templates below.
   - Face Texture
   - Hair Component
   - Head Binding
+- **Templates**
+
 
 #### Hand Tracking
 - **Overview**
@@ -67,6 +71,7 @@ Explore the various features and templates below.
   - ASL Fingerspelling
   - Hand Gestures
   - Hand Segmentation
+- **Templates**
 
 #### World Tracking
 - **Overview**
@@ -75,6 +80,8 @@ Explore the various features and templates below.
   - Object Tracking
   - World Mesh
   - World Mesh & Depth Texture
+- **Templates**
+
 
 #### Animations
 - **Overview**
@@ -84,6 +91,8 @@ Explore the various features and templates below.
   - Animation State Manager
   - Importing 3D Animations
   - Transitions & Triggering
+- **Templates**
+
 
 #### Audio
 - **Overview**
@@ -94,6 +103,8 @@ Explore the various features and templates below.
   - Audio Output
   - Speech Recognition
   - Text To Speech
+- **Templates**
+
 
 #### Bitmoji Avatar
 - **Overview**
@@ -102,21 +113,58 @@ Explore the various features and templates below.
   - Animating Bitmoji 3D
   - Bitmoji Head
   - Adding Bitmoji Props
+- **Templates**
 
 #### Connected Lenses
 - **Overview**
+  - Connected Lenses Overview
+  - Development Workflow
+  - Lifecycle
+  - Sharing Data Between Partipants
+ 
+#### GenAI Suite
+- **Overview**
+  - 3D Capture
+  - 3D Asset Generation
+  - Bitmoji Animation Generation
+  - Body Morph Generation
+  - Easy Lens (Beta)
 
-## Assets
+## System Requirements
 
-Explore various assets available for your projects.
+To use Lens Studio effectively, your computer must meet the following requirements:
 
-## Utils
+### Operating System
+- **Windows**: Windows 10 (64-bit)
+- **MacOS**: MacOS 10.15+
 
-Utility tools for optimizing your workflow.
+### Hardware
+- **Processor**: Minimum of Intel Core i3 2.5GHz, AMD FX 4300 2.6GHz, or Apple M1
+- **RAM**: 4 GB or more
+- **Graphics**: Intel HD Graphics 5000 / Nvidia GeForce 760 / AMD Radeon HD 5570 or better
+- **Screen Resolution**: 1280x768 or higher
 
-## Plugins
+**Note**: Ensure that you have the latest driver installed for your specific graphics card.
 
-Extend Lens Studio's capabilities with plugins.
+### Spectacles Compatibility
+Lens Studio 5.3 is compatible with Snap OS v5.58 and later.
+
+#### Compatibility Matrix
+| Lens Studio Version | Snap OS Version |
+|----------------------|-----------------|
+| 5.1.x               | 5.57+           |
+| 5.2.x               | 5.58+           |
+| 5.3.x               | 5.58+           |
+| 5.4.x               | 5.59+           |
+
+### Camera Kit Compatibility
+If you are a Camera Kit developer, review the Lens Studio compatibility table to ensure your Lens functions correctly within your application.
+
+### Lens Requirements
+- **RAM Usage**: The Lens should consume a maximum of 150 MB RAM memory.
+- **Exported Lens Size**: The zipped Lens file should not exceed 8 MB.
+- **ML Models**: ML models are counted separately, with a limit of 10 MB.
+- **Texture Size**: Textures should not exceed a resolution of 2048 x 2048.
 
 ## License
 
