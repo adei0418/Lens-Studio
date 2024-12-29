@@ -33,7 +33,7 @@ Explore the various features and templates below.
 ### Templates & Guides
 
 #### Animations
-- **Overview**
+- **Guides**
   - Animation Curve Editor
   - Animation Events
   - Animation Player
@@ -55,7 +55,7 @@ Explore the various features and templates below.
 - **Templates**
 
 #### Bitmoji Avatar
-- **Overview**
+- **Guides**
   - Bitmoji 2D
   - Bitmoji 3D
   - Animating Bitmoji 3D
@@ -64,7 +64,7 @@ Explore the various features and templates below.
 - **Templates**
 
 #### Body Tracking
-- **Overview**
+- **Guides**
   - Body & Hand Tracking
   - Body Segmentation
   - Body Mesh
@@ -74,7 +74,7 @@ Explore the various features and templates below.
 - **Templates**
 
 #### Connected Lenses
-- **Overview**
+- **Guides**
   - Connected Lenses Overview
   - Development Workflow
   - Lifecycle
@@ -82,7 +82,7 @@ Explore the various features and templates below.
 - **Templates**
 
 #### Face Tracking
-- **Overview**
+- **Guides**
   - Eye Color
   - Eye Tracking
   - Face Expressions
@@ -100,7 +100,7 @@ Explore the various features and templates below.
 - **Templates**
 
 #### GenAI Suite
-- **Overview**
+- **Guides**
   - 3D Capture
   - 3D Asset Generation
   - Bitmoji Animation Generation
@@ -112,7 +112,7 @@ Explore the various features and templates below.
   - Immersive ML Generation
 
 #### Hand Tracking
-- **Overview**
+- **Guides**
   - 2D Hand Tracking
   - 3D Hand Interactions
   - 3D Hand Tracking
@@ -123,7 +123,7 @@ Explore the various features and templates below.
 - **Templates**
 
 #### Lens Cloud
-- **Overview**
+- **Guides**
   - Lens Cloud Overview
   - Multi-User Services
   - Location-Based Services
@@ -132,7 +132,7 @@ Explore the various features and templates below.
  
 
 #### Lights, Cameras and Shadows
-- **Overview**
+- **Guides**
   - Light and Shadow
   - Environment Matching
   - Screen Space Normals Generation
@@ -140,12 +140,21 @@ Explore the various features and templates below.
   - Gaussian Splatting
   - Person Normals and Depth
 
+#### Location AR
+- **Guides**
+  - Landmarkers
+  - Map Component
+- **Templates**
+  - Custom Location
+  - Custom Location Creator Lens
+  - City-Scale AR
+  - Spatial Persistence
     
 #### Materials
-- **Overview**
+- **Guides**
 
 #### Particles
-- **Overview**
+- **Guides**
   - Introduction and Concepts
   - VFX Sub-Graph Library
   - VFX Collisions
@@ -155,11 +164,46 @@ Explore the various features and templates below.
   - VFX Collision
   - VFX
 
+#### Persistent Storage
+- **Guides**
+  - Persistent Cloud Storage
+  - Single Player Example
+  - Multiplayer Example
+  - Persistent Storage
+- **Templates**
+  - High Score
+  - Simple High Score
+
+#### Physics
+- **Guides**
+  - Physics Overview
+  - Physics Assets and Components
+  - Force
+  - Raycast
+  - Collision and Overlap
+  - Cloth Simulation
+    
+- **Templates**
+  - Physics
+  - Physics Toys
+  - Responsive Plants
+  - Collect Coins
+  - Gravity Gun
+  - Cloth Simulation
+  - Physics Lab
+    
 #### Ray Tracing
-- **Overview**
+- **Guides**
+
+#### Remote APIs
+- **Guides**
+  - Remote Service Module
+  - AccuWeather API
+  - ChatGPT API
+  - Snapchat Places API
 
 #### World Tracking
-- **Overview**
+- **Guides**
   - Device Tracking
   - Marker Tracking
   - Object Tracking
@@ -195,7 +239,7 @@ Lens Studio 5.3 is compatible with Snap OS v5.58 and later.
 | 5.4.x               | 5.59+           |
 
 ### Camera Kit Compatibility
-If you are a Camera Kit developer, review the Lens Studio compatibility table to ensure your Lens functions correctly within your application.
+If you are a Camera Kit developer, review the [Lens Studio compatibility](https://developers.snap.com/camera-kit/ar-content/lens-studio-compatibility?lang=en-US) table to ensure your Lens functions correctly within your application.
 
 ### Lens Requirements
 - **RAM Usage**: The Lens should consume a maximum of 150 MB RAM memory.
