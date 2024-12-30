@@ -7,6 +7,7 @@ This is a collection of the template projects included with [Lens Studio](https:
 - [Getting Started](#getting-started)
 - [Highlighted Content](#highlighted-content)
 - [Templates & Guides](#templates--guides)
+  - [Audio](#audio)
   - [Body Tracking](#body-tracking)
   - [Face Tracking](#face-tracking)
   - [Hand Tracking](#hand-tracking)
@@ -31,6 +32,7 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Lens Studio Home Page](https://developers.snap.com/lens-studio/lens-studio-workflow/lens-studio-interface/home)
   - [Scene Overview](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/camera)
   - [Panels](https://developers.snap.com/lens-studio/lens-studio-workflow/lens-studio-interface/panels)
+  - [Previewing Your Lens](https://developers.snap.com/lens-studio/lens-studio-workflow/previewing-your-lens)
   - [Toolbar and Shortcuts](https://developers.snap.com/lens-studio/lens-studio-workflow/lens-studio-interface/toolbar-and-shortcuts)
   - [Workspaces](https://developers.snap.com/lens-studio/lens-studio-workflow/lens-studio-interface/workspaces)
   - [Importing and Exporting Resources](https://developers.snap.com/lens-studio/assets-pipeline/importing-and-exporting-resources)
@@ -83,11 +85,11 @@ This is a collection of the template projects included with [Lens Studio](https:
   - Preview Videos
   - Creating an Icon
   - Lens Hints
-  - Scene Manager
-  - Wired Parameters
-  - Asset Packages Introduction
-  - Package Library Management
-  - Installed Content Preferences
+  - [Scene Manager](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/scene-manager)
+  - [Wired Parameters](https://developers.snap.com/lens-studio/lens-studio-workflow/adding-interactivity/wired-parameters)
+  - [Asset Packages Introduction](https://developers.snap.com/lens-studio/lens-studio-workflow/advanced/package-management/asset-packages-introduction)
+  - [Package Library Management](https://developers.snap.com/lens-studio/lens-studio-workflow/advanced/package-management/package-library-management)
+  - [Installed Content Preferences](https://developers.snap.com/lens-studio/lens-studio-workflow/advanced/package-management/installed-content-preferences)
 #### Optimizing your Lens
 - **Guides**
   - 3D Optimization
@@ -111,18 +113,18 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### Animations
 - **Guides**
+  - [3D Animation](https://developers.snap.com/lens-studio/assets-pipeline/3d/animation/3d-animation)
   - Animation Curve Editor
   - Animation Events
   - Animation Player
   - Animation State Manager
   - Importing 3D Animations
   - Transitions & Triggering
-  - Pin To Mesh
-  - Prefabs
-  - Procedural Mesh
-  - 3D Animation
-  - Vertex Animation Textures Guide
-  - Vertex Animation
+  - [Pin To Mesh](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/3d/pin-to-mesh)
+  - [Prefabs](https://developers.snap.com/lens-studio/lens-studio-workflow/prefabs)
+  - [Procedural Mesh](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/3d/procedural-mesh)
+  - [Vertex Animation Textures Guide](https://developers.snap.com/lens-studio/assets-pipeline/3d/animation/vertex-animation-textures-guide)
+  - [Vertex Animation](https://developers.snap.com/lens-studio/assets-pipeline/3d/animation/vertex-animation)
 - **Templates**
 
 #### Asset Library
@@ -158,30 +160,32 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### Body Tracking
 - **Guides**
-  - 3D Body and Hand Tracking
+  - [3D Body and Hand Tracking](https://developers.snap.com/lens-studio/features/ar-tracking/body/object-tracking-3d)
   - Body Mesh
   - Body Mesh Attachments
   - External Body Mesh
   - External Body Mesh Creation
   - Head & Neck Tracking
-  - Portrait Skin Segmentation
   - Normals and Depth
-  - Footwear Segmentation
-  - Fullscreen Segmentation
-  - Segmentation Trails
+  - [Fullscreen Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/body/segmentation/fullscreen-segmentation)
+  - [Segmentation Trails](https://developers.snap.com/lens-studio/features/ar-tracking/body/segmentation/segmentation-trails)
   - Upper Body Tracking
-  - Upper Garment Segmentation
 - **Templates**
-  - 3D Body Tracking
-  - Body Morph Guide
-  - Body Mesh
-  - Body Segmentation
+  - [3D Body Tracking](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/3d-body-tracking)
+  - [Body Morph Guide](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/Body-Morph-guide)
+  - [Body Mesh](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/body-mesh)
+  - [Body Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/body-segmentation)
   - Earring Try-On
   - Eyewear Try-On
-  - Full Body Attachments
-  - Full Body Triggers
-  - Shoulder
-  - Skeletal
+  - [Upper Garment Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/body/segmentation/upper-garment-segmentation)
+  - [Person Normals and Depth](https://developers.snap.com/lens-studio/features/ar-tracking/body/segmentation/person-normals-and-depth)
+  - [Portrait Skin Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/body/segmentation/portrait-skin-segmentation)
+  - [Full Body Attachments](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/full-body-attachments)
+  - [Full Body Triggers](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/full-body-triggers)
+  - [Footwear Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/body/segmentation/footwear-segmentation)
+  - [Hand and Nails Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/body/segmentation/hand-segmentation)
+  - [Shoulder](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/body)
+  - [Skeletal](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/skeletal)
   - Try-On Template
   - Footwear Try-On
   - Garment Transfer
@@ -203,62 +207,66 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### Exporting
 - **Guides**
-  - 3D Object Export
-  - 3ds Max, 3D Object Export
-  - Blender, 3D Object Export
-  - Cinema 4D, 3D Object Export
-  - Maya, 3D Object Export
-  - Qlone, 3D Object Export
+  - [3D Object Export](https://developers.snap.com/lens-studio/assets-pipeline/3d/exporting-content/overview)
+  - [3ds Max, 3D Object Export](https://developers.snap.com/lens-studio/assets-pipeline/3d/exporting-content/3ds-max-3d-object-export)
+  - [Blender, 3D Object Export](https://developers.snap.com/lens-studio/assets-pipeline/3d/exporting-content/blender-3d-object-export)
+  - [Cinema 4D, 3D Object Export](https://developers.snap.com/lens-studio/assets-pipeline/3d/exporting-content/cinema-4d-3d-object-export)
+  - [Maya, 3D Object Export](https://developers.snap.com/lens-studio/assets-pipeline/3d/exporting-content/maya-3d-object-export)
+  - [Qlone, 3D Object Export](https://developers.snap.com/lens-studio/assets-pipeline/3d/exporting-content/qlone-3d-object-export)
 - **Templates**
   
 #### Face Tracking
 - **Guides**
-  - Eye Color
-  - Eye Tracking
-  - Face Expressions
-  - Face Image Picker
-  - Face Image
-  - Face Index
-  - Face Inset
-  - Face Landmarks
-  - Face Liquify
-  - Face Mask
-  - Face Mesh
-  - Face Texture
-  - Hair Component
-  - Head Binding
-  - Head Attached 3D Objects
-  - Working with Multiple Faces
+  - [Face Effects Overview](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-effects-overview)
+  - [Eye Color](https://developers.snap.com/lens-studio/features/ar-tracking/face/eye-color)
+  - [Eye Tracking](https://developers.snap.com/lens-studio/features/ar-tracking/face/eye-tracking)
+  - [Face Expressions](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-expressions)
+  - [Face Image Picker Texture](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-image-picker-texture)
+  - [Face Image](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-image)
+  - [Face Index]()
+  - [Face Inset](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-inset)
+  - [Face Landmarks](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-landmark)
+  - [Face Liquify](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-liquify)
+  - [Face Mask](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-mask)
+  - [Face Mesh](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-mesh)
+  - [Face Retouch](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-retouch)
+  - [Face Stretch](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-stretch)
+  - [Face Texture](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-texture)
+  - [Hair Component](https://developers.snap.com/lens-studio/features/ar-tracking/face/hair-simulation)
+  - [Head Binding](https://developers.snap.com/lens-studio/features/ar-tracking/face/head-attached-3d-objects)
+  - [Working with Multiple Faces](https://developers.snap.com/lens-studio/features/ar-tracking/face/working-with-multiple-faces)
+ 
+  
 - **Templates**
-  - 2D Objects
-  - 3D Objects
-  - Baseball Cap
-  - Chain Physics
-  - Countdown
-  - Cricket Helmet
-  - Distort
-  - Face Expressions
-  - Face Image Picker
-  - Face in Picture
-  - Face In Video
-  - Face Landmarks
-  - Face Mesh
-  - Face Morph
-  - Facial Features Segmentation
-  - Face Paint
-  - Face Stickers
-  - Hair Color
-  - Hair Simulation
-  - Head Mesh
-  - Makeup
-  - Media Picker
-  - Paper Head
-  - Photo
-  - Portrait Particles
-  - Segmentation
-  - Sunglasses
-  - Team Celebrate
-  - Trigger
+  - [2D Objects](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/2d-objects)
+  - [3D Objects](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/3d-objects)
+  - [Baseball Cap](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/baseball-cap)
+  - [Chain Physics](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/chain-physics)
+  - [Countdown](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/countdown)
+  - [Cricket Helmet](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/cricket-helmet)
+  - [Distort](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/distort)
+  - [Face Expressions](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/face-expressions)
+  - [Face Image Picker](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/face-image-picker)
+  - [Face in Picture](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/face-in-picture)
+  - [Face In Video](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/face-in-video)
+  - [Face Landmarks](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/face-landmarks)
+  - [Face Mesh](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/face-mesh)
+  - [Face Morph](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/face-morph)
+  - [Facial Features Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/face-occlusion)
+  - [Face Paint](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/face-paint)
+  - [Face Stickers](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/face-stickers)
+  - [Hair Color](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/hair-color)
+  - [Hair Simulation](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/hair-simulation)
+  - [Head Mesh](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/head-mesh)
+  - [Makeup](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/makeup)
+  - [Media Picker](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/media-picker)
+  - [Paper Head](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/paper-head)
+  - [Photo](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/photo)
+  - [Portrait Particles](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/portrait-particles)
+  - [Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/segmentation)
+  - [Sunglasses](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/sunglasses)
+  - [Team Celebrate](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/team-celebrate)
+  - [Trigger](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/trigger)
 
 #### GenAI Suite
 - **Guides**
@@ -283,7 +291,7 @@ This is a collection of the template projects included with [Lens Studio](https:
   - 3D Hand Tracking
   - 3D Hand VFX
   - ASL Fingerspelling
-  - Hand Gestures
+  - [Hand Gestures](https://developers.snap.com/lens-studio/features/ar-tracking/hand/hand-gestures)
   - Hand Segmentation
   - Hand
   - Hand Joints
@@ -292,10 +300,10 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### Importing
 - **Guides**
-  - 3D Object Import
-  - FBX, 3D Object Import
-  - glTF, 3D Object Import
-  - OBJ, 3D Object Import
+  - [3D Object Import](https://developers.snap.com/lens-studio/assets-pipeline/3d/importing-content/overview)
+  - [FBX, 3D Object Import](https://developers.snap.com/lens-studio/assets-pipeline/3d/importing-content/fbx-3d-object-import)
+  - [glTF, 3D Object Import](https://developers.snap.com/lens-studio/assets-pipeline/3d/importing-content/gltf-import)
+  - [OBJ, 3D Object Import](https://developers.snap.com/lens-studio/assets-pipeline/3d/importing-content/obj-3d-object-import)
 
 #### Lens Cloud
 - **Guides**
@@ -381,10 +389,11 @@ This is a collection of the template projects included with [Lens Studio](https:
   - Script Events
   - Script Library Management
   - Script Modules
+  - [Tween Manager](https://developers.snap.com/lens-studio/lens-studio-workflow/adding-interactivity/tween-manager)
   - Touch and Interactions
   - TypeScript
   - Visual Studio Code Extension
-  - Behavior
+  - [Behavior](https://developers.snap.com/lens-studio/lens-studio-workflow/adding-interactivity/behavior)
   - Tween
 
 #### SnapML
@@ -421,8 +430,8 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### Texturing
 - **Guides**
-  - Photoshop Texturing
-  - Substance Texturing
+  - [Photoshop Texturing](https://developers.snap.com/lens-studio/assets-pipeline/3d/texturing/photoshop-texturing)
+  - [Substance Texturing](https://developers.snap.com/lens-studio/assets-pipeline/3d/texturing/substance-texturing)
   
 #### Text
 - **Guides**
@@ -447,21 +456,22 @@ This is a collection of the template projects included with [Lens Studio](https:
  
 #### UI
 - **Guides**
-  - Screen Transform Overview
-  - Screen Transform Properties
-  - Screen Region and Device Simulation
-  - Masking
-  - Canvas
-  - Pixel Accurate Rendering
+  - [Screen Transform Overview](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/2d/screen-transform-overview)
+  - [Screen Transform Properties](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/2d/screen-transform-properties)
+  - [Screen Region and Device Simulation](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/2d/screen-region-device-simulation)
+  - [Masking](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/2d/masking-component)
+  - [Canvas](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/2d/canvas-component)
+  - [Pixel Accurate Rendering](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/2d/pixel-accurate-rendering)
   - Camera Roll Widget
-  - Image
-  - 2D Animation
+  - [Image](https://developers.snap.com/lens-studio/assets-pipeline/2d/image)
+  - [2D Animation](https://developers.snap.com/lens-studio/assets-pipeline/2d/2d-animation)
   - Image Carousel
   - FlexBox Layout
   - UI Widgets
   - UI Scroll View
-  - GIPHY Import
+  - [GIPHY Import](https://developers.snap.com/lens-studio/assets-pipeline/2d/giphy-import)
   - Leaderboard
+  - [Video](https://developers.snap.com/lens-studio/assets-pipeline/2d/video)
 - **Templates**
   - 4 Randomizers
   - Configuration
@@ -470,7 +480,7 @@ This is a collection of the template projects included with [Lens Studio](https:
   - Meme Sticker
   - Persistent Noteboard
   - Quiz
-  - Simple Canvas
+  - [Simple Canvas](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/scene-set-up-templates/canvas-template)
   - Tournament
   - What x Are You Spinner
 
@@ -509,23 +519,23 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### World Tracking
 - **Guides**
-  - Device Tracking
-  - Marker Tracking
-  - Object Tracking
-  - World Mesh and Depth Texture
-  - Manipulation
-  - Combining World and Face
+  - [3D Object Manipulation](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/3d/manipulation)
+  - [Device Tracking](https://developers.snap.com/lens-studio/features/ar-tracking/world/tracking-modes)
+  - [Marker Tracking](https://developers.snap.com/lens-studio/features/ar-tracking/world/marker-tracking)
+  - [Object Tracking](https://developers.snap.com/lens-studio/features/ar-tracking/world/object-tracking)
+  - [World Mesh and Depth Texture](https://developers.snap.com/lens-studio/features/ar-tracking/world/world-mesh-and-depth-texture)
+  - [Combining World and Face](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/combining-face-with-world)
 - **Templates**
   - Content Editor Tools
   - Content Editor Tools Continued
   - Cutout
-  - Instant World Hit Test
-  - Marker
-  - Marker with Snapcode
-  - Pet
-  - Simple World Mesh
-  - World Mesh Example
-  - World Tracking Planes
+  - [Instant World Hit Test](https://developers.snap.com/lens-studio/features/ar-tracking/world/world-templates/instant-world-hit-test)
+  - [Marker](https://developers.snap.com/lens-studio/features/ar-tracking/world/world-templates/image-marker)
+  - [Marker with Snapcode](https://developers.snap.com/lens-studio/features/ar-tracking/world/world-templates/marker-with-snapcode)
+  - [Pet](https://developers.snap.com/lens-studio/features/ar-tracking/world/world-templates/pet)
+  - [Simple World Mesh](https://developers.snap.com/lens-studio/features/ar-tracking/world/world-templates/simple-world-mesh)
+  - [World Mesh Example](https://developers.snap.com/lens-studio/features/ar-tracking/world/world-templates/world-mesh)
+  - [World Tracking Planes](https://developers.snap.com/lens-studio/features/ar-tracking/world/world-templates/world-tracking-planes)
   - Depth Toybox
   - Look Around
   - Picture Frame
