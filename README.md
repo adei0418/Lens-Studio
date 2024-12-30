@@ -24,18 +24,18 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 ## Getting Started
 
-Learn more about what Lens Studio is: [What is Lens Studio?](https://developers.snap.com/lens-studio/overview/getting-started/what-is-lens-studio)
-[Building Your First Lens using Built-in AR Effects](https://developers.snap.com/lens-studio/overview/building-your-first-lens/built-in-ar-effects)
-[Lens Studio Project Structure](https://developers.snap.com/lens-studio/lens-studio-workflow/advanced/source-control)
-[Pairing your device to Snapchat](https://developers.snap.com/lens-studio/lens-studio-workflow/pairing-to-snapchat)
-[Lens Studio Home Page](https://developers.snap.com/lens-studio/lens-studio-workflow/lens-studio-interface/home)
-[Scene Overview](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/camera)
-[Panels](https://developers.snap.com/lens-studio/lens-studio-workflow/lens-studio-interface/panels)
-[Toolbar and Shortcuts](https://developers.snap.com/lens-studio/lens-studio-workflow/lens-studio-interface/toolbar-and-shortcuts)
-[Workspaces](https://developers.snap.com/lens-studio/lens-studio-workflow/lens-studio-interface/workspaces)
-[Importing and Exporting Resources](https://developers.snap.com/lens-studio/assets-pipeline/importing-and-exporting-resources)
-[Migrating from Meta Spark to Lens Studio](https://developers.snap.com/lens-studio/overview/migrating-to-lens-studio/lens-studio-for-spark)
-[Lens Studio for Unity Developers](https://developers.snap.com/lens-studio/overview/migrating-to-lens-studio/lens-studio-for-unity)
+  - Learn more about what Lens Studio is: [What is Lens Studio?](https://developers.snap.com/lens-studio/overview/getting-started/what-is-lens-studio)
+  - [Building Your First Lens using Built-in AR Effects](https://developers.snap.com/lens-studio/overview/building-your-first-lens/built-in-ar-effects)
+  - [Lens Studio Project Structure](https://developers.snap.com/lens-studio/lens-studio-workflow/advanced/source-control)
+  - [Pairing your device to Snapchat](https://developers.snap.com/lens-studio/lens-studio-workflow/pairing-to-snapchat)
+  - [Lens Studio Home Page](https://developers.snap.com/lens-studio/lens-studio-workflow/lens-studio-interface/home)
+  - [Scene Overview](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/camera)
+  - [Panels](https://developers.snap.com/lens-studio/lens-studio-workflow/lens-studio-interface/panels)
+  - [Toolbar and Shortcuts](https://developers.snap.com/lens-studio/lens-studio-workflow/lens-studio-interface/toolbar-and-shortcuts)
+  - [Workspaces](https://developers.snap.com/lens-studio/lens-studio-workflow/lens-studio-interface/workspaces)
+  - [Importing and Exporting Resources](https://developers.snap.com/lens-studio/assets-pipeline/importing-and-exporting-resources)
+  - [Migrating from Meta Spark to Lens Studio](https://developers.snap.com/lens-studio/overview/migrating-to-lens-studio/lens-studio-for-spark)
+  - [Lens Studio for Unity Developers](https://developers.snap.com/lens-studio/overview/migrating-to-lens-studio/lens-studio-for-unity)
 
 ## Highlighted Content
 
@@ -44,6 +44,7 @@ Learn more about what Lens Studio is: [What is Lens Studio?](https://developers.
 [Lens Creator Rewards](https://developers.snap.com/lens-studio/publishing/submitting/lens-creator-rewards)
 
 [Snap AR](https://www.youtube.com/@SnapAR) offers an extensive range of tutorials across various categories to help you create and enhance your lenses.
+
 ![image](https://github.com/user-attachments/assets/8e615eff-05ad-4b17-b35c-327c9c1305bb)
 
 #### Plugins
