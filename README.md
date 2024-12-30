@@ -1,4 +1,4 @@
-# Lens Studio Templates
+# Lens Studio Templates (NOT FINAL)
 
 This is a collection of the template projects included with [Lens Studio](https://lensstudio.snapchat.com).
 
