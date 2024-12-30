@@ -462,7 +462,7 @@ This is a collection of the template projects included with [Lens Studio](https:
   - UI Scroll View
   - GIPHY Import
   - Leaderboard
- - **Templates**
+- **Templates**
   - 4 Randomizers
   - Configuration
   - Drawing
