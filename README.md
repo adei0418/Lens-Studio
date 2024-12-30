@@ -25,10 +25,30 @@ This is a collection of the template projects included with [Lens Studio](https:
 ## Getting Started
 
 Learn more about what Lens Studio is: [What is Lens Studio?](https://developers.snap.com/lens-studio/overview/getting-started/what-is-lens-studio)
+[Building Your First Lens using Built-in AR Effects](https://developers.snap.com/lens-studio/overview/building-your-first-lens/built-in-ar-effects)
+[Lens Studio Project Structure](https://developers.snap.com/lens-studio/lens-studio-workflow/advanced/source-control)
+[Pairing your device to Snapchat](https://developers.snap.com/lens-studio/lens-studio-workflow/pairing-to-snapchat)
+[Lens Studio Home Page](https://developers.snap.com/lens-studio/lens-studio-workflow/lens-studio-interface/home)
+[Scene Overview](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/camera)
+[Panels](https://developers.snap.com/lens-studio/lens-studio-workflow/lens-studio-interface/panels)
+[Toolbar and Shortcuts](https://developers.snap.com/lens-studio/lens-studio-workflow/lens-studio-interface/toolbar-and-shortcuts)
+[Workspaces](https://developers.snap.com/lens-studio/lens-studio-workflow/lens-studio-interface/workspaces)
+[Importing and Exporting Resources](https://developers.snap.com/lens-studio/assets-pipeline/importing-and-exporting-resources)
+[Migrating from Meta Spark to Lens Studio](https://developers.snap.com/lens-studio/overview/migrating-to-lens-studio/lens-studio-for-spark)
+[Lens Studio for Unity Developers](https://developers.snap.com/lens-studio/overview/migrating-to-lens-studio/lens-studio-for-unity)
 
 ## Highlighted Content
 
-Explore the various features and templates below.
+[Migrating to Lens Studio 5](https://developers.snap.com/lens-studio/overview/migrating-to-lens-studio/migrating-to-lens-studio-5)
+
+[Lens Creator Rewards](https://developers.snap.com/lens-studio/publishing/submitting/lens-creator-rewards)
+
+[Snap AR](https://www.youtube.com/@SnapAR) offers an extensive range of tutorials across various categories to help you create and enhance your lenses.
+![image](https://github.com/user-attachments/assets/8e615eff-05ad-4b17-b35c-327c9c1305bb)
+
+#### Plugins
+- **Guides**
+  - Importing and Exporting Resources
 
 ### Plugin Development
 
@@ -62,6 +82,11 @@ Explore the various features and templates below.
   - Preview Videos
   - Creating an Icon
   - Lens Hints
+  - Scene Manager
+  - Wired Parameters
+  - Asset Packages Introduction
+  - Package Library Management
+  - Installed Content Preferences
 #### Optimizing your Lens
 - **Guides**
   - 3D Optimization
@@ -91,8 +116,18 @@ Explore the various features and templates below.
   - Animation State Manager
   - Importing 3D Animations
   - Transitions & Triggering
+  - Pin To Mesh
+  - Prefabs
+  - Procedural Mesh
+  - 3D Animation
+  - Vertex Animation Textures Guide
+  - Vertex Animation
 - **Templates**
 
+#### Asset Library
+- **Guides**
+  - [Asset Library Overview](https://developers.snap.com/lens-studio/assets-pipeline/asset-library/asset-library-overview)
+  - [Asset Library Publishing Guide](https://developers.snap.com/lens-studio/assets-pipeline/asset-library/asset-library-publishing-guide)
 
 #### Audio
 - **Overview**
@@ -104,6 +139,11 @@ Explore the various features and templates below.
   - Speech Recognition
   - Text To Speech
 - **Templates**
+  - Audio Analyzer
+  - Audio Output
+  - Keyword Detection
+  - Music Video
+  - Soundboard
 
 #### Bitmoji Avatar
 - **Guides**
@@ -153,8 +193,23 @@ Explore the various features and templates below.
   - Development Workflow
   - Lifecycle
   - Sharing Data Between Partipants
+  - Connected Lenses Example
 - **Templates**
+  - Connected Lens
+  - Sync Framework
+  - Sync Framework - Voting
+  - Realtime Store
 
+#### Exporting
+- **Guides**
+  - 3D Object Export
+  - 3ds Max, 3D Object Export
+  - Blender, 3D Object Export
+  - Cinema 4D, 3D Object Export
+  - Maya, 3D Object Export
+  - Qlone, 3D Object Export
+- **Templates**
+  
 #### Face Tracking
 - **Guides**
   - Eye Color
@@ -171,7 +226,38 @@ Explore the various features and templates below.
   - Face Texture
   - Hair Component
   - Head Binding
+  - Head Attached 3D Objects
+  - Working with Multiple Faces
 - **Templates**
+  - 2D Objects
+  - 3D Objects
+  - Baseball Cap
+  - Chain Physics
+  - Countdown
+  - Cricket Helmet
+  - Distort
+  - Face Expressions
+  - Face Image Picker
+  - Face in Picture
+  - Face In Video
+  - Face Landmarks
+  - Face Mesh
+  - Face Morph
+  - Facial Features Segmentation
+  - Face Paint
+  - Face Stickers
+  - Hair Color
+  - Hair Simulation
+  - Head Mesh
+  - Makeup
+  - Media Picker
+  - Paper Head
+  - Photo
+  - Portrait Particles
+  - Segmentation
+  - Sunglasses
+  - Team Celebrate
+  - Trigger
 
 #### GenAI Suite
 - **Guides**
@@ -188,18 +274,27 @@ Explore the various features and templates below.
 #### Hand Tracking
 - **Guides**
   - 2D Hand Tracking
+  - Hand and Nails Segmentation
+  - Wristwear Try-On
+  - Ring Binding Component
+- **Templates**
   - 3D Hand Interactions
   - 3D Hand Tracking
   - 3D Hand VFX
   - ASL Fingerspelling
   - Hand Gestures
   - Hand Segmentation
-  - Hand and Nails Segmentation
+  - Hand
+  - Hand Joints
   - Wristwear Try-On
   - Ring Binding Component
-- **Templates**
-  - Wristwear Try-On
-  - Ring Binding Component
+
+#### Importing
+- **Guides**
+  - 3D Object Import
+  - FBX, 3D Object Import
+  - glTF, 3D Object Import
+  - OBJ, 3D Object Import
 
 #### Lens Cloud
 - **Guides**
@@ -288,10 +383,8 @@ Explore the various features and templates below.
   - Touch and Interactions
   - TypeScript
   - Visual Studio Code Extension
-- **Templates**
   - Behavior
   - Tween
-    
 
 #### SnapML
 - **Guides**
@@ -325,6 +418,10 @@ Explore the various features and templates below.
   - Shopping Lens
   - True Size Objects
 
+#### Texturing
+- **Guides**
+  - Photoshop Texturing
+  - Substance Texturing
   
 #### Text
 - **Guides**
@@ -349,11 +446,20 @@ Explore the various features and templates below.
  
 #### UI
 - **Guides**
+  - Screen Transform Overview
+  - Screen Transform Properties
+  - Screen Region and Device Simulation
+  - Masking
+  - Canvas
+  - Pixel Accurate Rendering
   - Camera Roll Widget
+  - Image
+  - 2D Animation
   - Image Carousel
   - FlexBox Layout
   - UI Widgets
   - UI Scroll View
+  - GIPHY Import
   - Leaderboard
  - **Templates**
   - 4 Randomizers
@@ -406,6 +512,8 @@ Explore the various features and templates below.
   - Marker Tracking
   - Object Tracking
   - World Mesh and Depth Texture
+  - Manipulation
+  - Combining World and Face
 - **Templates**
   - Content Editor Tools
   - Content Editor Tools Continued
