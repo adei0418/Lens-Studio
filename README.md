@@ -30,6 +30,57 @@ Learn more about what Lens Studio is: [What is Lens Studio?](https://developers.
 
 Explore the various features and templates below.
 
+### Plugin Development
+
+#### Plugins
+- **Guides**
+  - Overview
+  - Basic Structures
+  - Best Practices
+  - Building Plugins
+  - Common Tasks
+  - Installing
+  - Figma Importer Plugin
+  - Managing Plugins
+  - Figma Importer Plugin
+  - Transitions Library Plugin
+
+
+### Publishing a Lens
+
+#### Distrubting your Lens
+- **Guides**
+  - Lens Discovery
+  - Sharing Your Lens
+  - Snapcodes
+  - Snap Kit
+  - Unlocking Lenses
+
+#### Configuring your Project
+- **Guides**
+  - Configuring Project Settings
+  - Preview Videos
+  - Creating an Icon
+  - Lens Hints
+#### Optimizing your Lens
+- **Guides**
+  - 3D Optimization
+  - Compression
+  - Mobile Monitor and Trace Analysis [Beta]
+  - Mobile Lens Profiler Case Study
+  - Performance and Optimization for Lenses
+  - Lens Quality Assurance Troubleshooting
+  - Texture Optimization
+#### Submitting your Lens
+- **Guides**
+  - Submission Guidelines
+  - Lens Visibility
+  - Lens Analytics
+  - Lens Creator Rewards
+  - Submitting Your Lens
+
+
+
 ### Templates & Guides
 
 #### Animations
@@ -62,16 +113,39 @@ Explore the various features and templates below.
   - Bitmoji Head
   - Adding Bitmoji Props
 - **Templates**
+  - Bitmoji Runner Game
 
 #### Body Tracking
 - **Guides**
-  - Body & Hand Tracking
-  - Body Segmentation
+  - 3D Body and Hand Tracking
   - Body Mesh
   - Body Mesh Attachments
-  - Upper Body
+  - External Body Mesh
+  - External Body Mesh Creation
   - Head & Neck Tracking
+  - Portrait Skin Segmentation
+  - Normals and Depth
+  - Footwear Segmentation
+  - Fullscreen Segmentation
+  - Segmentation Trails
+  - Upper Body Tracking
+  - Upper Garment Segmentation
 - **Templates**
+  - 3D Body Tracking
+  - Body Morph Guide
+  - Body Mesh
+  - Body Segmentation
+  - Earring Try-On
+  - Eyewear Try-On
+  - Full Body Attachments
+  - Full Body Triggers
+  - Shoulder
+  - Skeletal
+  - Try-On Template
+  - Footwear Try-On
+  - Garment Transfer
+  - Necklace Try-On
+  - Cloth Simulation Try-On
 
 #### Connected Lenses
 - **Guides**
@@ -120,7 +194,12 @@ Explore the various features and templates below.
   - ASL Fingerspelling
   - Hand Gestures
   - Hand Segmentation
+  - Hand and Nails Segmentation
+  - Wristwear Try-On
+  - Ring Binding Component
 - **Templates**
+  - Wristwear Try-On
+  - Ring Binding Component
 
 #### Lens Cloud
 - **Guides**
@@ -150,8 +229,10 @@ Explore the various features and templates below.
   - City-Scale AR
   - Spatial Persistence
     
-#### Materials
+#### Material Editor
 - **Guides**
+  - Overview
+  - Nodes
 
 #### Particles
 - **Guides**
@@ -182,7 +263,6 @@ Explore the various features and templates below.
   - Raycast
   - Collision and Overlap
   - Cloth Simulation
-    
 - **Templates**
   - Physics
   - Physics Toys
@@ -191,6 +271,71 @@ Explore the various features and templates below.
   - Gravity Gun
   - Cloth Simulation
   - Physics Lab
+    
+#### Scripting
+- **Guides**
+  - Scripting Introduction
+  - Scripting Example
+  - Accessing Components
+  - Custom Script UI
+  - Custom TypeScript Configuration
+  - Debugging with Logger
+  - Script Components
+  - Script Editor
+  - Script Events
+  - Script Library Management
+  - Script Modules
+  - Touch and Interactions
+  - TypeScript
+  - Visual Studio Code Extension
+- **Templates**
+  - Behavior
+  - Tween
+    
+
+#### SnapML
+- **Guides**
+  - Compatibility
+  - Crop Texture
+  - Export from PyTorch
+  - Export from TensorFlow
+  - Faceless ML Component
+  - Model Zoo
+  - ML Component Overview
+  - Scripting ML Component
+  - SnapML Overview
+  - Quick Start
+- **Templates**
+  - Classification
+  - Disappearing Effects
+  - Ground Segmentation
+  - ML Environment Matching
+  - Paint To Erase
+  - Portrait Relighting
+  - World Eraser Template
+  - Style Transfer
+  - Custom Segmentation
+  - Object Detection
+  - Multi Class Classification
+  - Multi-Object Detection
+  - Optical Character Recognition
+
+#### Sponsored Lenses
+- **Guides**
+  - Shopping Lens
+  - True Size Objects
+
+  
+#### Text
+- **Guides**
+  - Text Overview
+  - Text 3D
+  - Caption Sticker Component
+  - Localization
+  - Native Keyboard
+  - Shareable Text Edits
+- **Templates**
+  - 3D Text
     
 #### Ray Tracing
 - **Guides**
@@ -201,16 +346,84 @@ Explore the various features and templates below.
   - AccuWeather API
   - ChatGPT API
   - Snapchat Places API
+ 
+#### UI
+- **Guides**
+  - Camera Roll Widget
+  - Image Carousel
+  - FlexBox Layout
+  - UI Widgets
+  - UI Scroll View
+  - Leaderboard
+ - **Templates**
+  - 4 Randomizers
+  - Configuration
+  - Drawing
+  - Freeze Frame
+  - Meme Sticker
+  - Persistent Noteboard
+  - Quiz
+  - Simple Canvas
+  - Tournament
+  - What x Are You Spinner
+
+#### User, Friends & Leaderboard
+- **Guides**
+  - User Context System
+  - Friends Components
+  - Friends Carousel
+- **Templates**
+  - Friends Sorting
+  - This or That
+
+#### User, Friends & Leaderboard
+- **Guides**
+  - User Context System
+  - Friends Components
+  - Friends Carousel
+- **Templates**
+  - Friends Sorting
+  - This or That
+
+#### Voice ML
+- **Guides**
+  - Question & Answering Service Template
+  - 2D Animated TTS
+  - Audio Classification Template
+  - Sentiment Analyzer
+  - Speech Recognition
+  - Text To Speech
+  - Voice UI
+
+#### VFX Editor
+- **Guides**
+  - Overview
+  - Nodes
 
 #### World Tracking
 - **Guides**
   - Device Tracking
   - Marker Tracking
   - Object Tracking
-  - World Mesh
-  - World Mesh & Depth Texture
+  - World Mesh and Depth Texture
 - **Templates**
-
+  - Content Editor Tools
+  - Content Editor Tools Continued
+  - Cutout
+  - Instant World Hit Test
+  - Marker
+  - Marker with Snapcode
+  - Pet
+  - Simple World Mesh
+  - World Mesh Example
+  - World Tracking Planes
+  - Depth Toybox
+  - Look Around
+  - Picture Frame
+  - Portal
+  - Static Object
+  - Window
+    
 ## System Requirements
 
 To use Lens Studio effectively, your computer must meet the following requirements:
