@@ -335,10 +335,20 @@ This is a collection of the template projects included with [Lens Studio](https:
   - City-Scale AR
   - Spatial Persistence
     
-#### Material Editor
+#### Materials
 - **Guides**
-  - Overview
-  - Nodes
+  - [Overview](https://developers.snap.com/lens-studio/features/graphics/materials/overview)
+  - [Cubemaps](https://developers.snap.com/lens-studio/features/graphics/materials/cubemaps)
+  - [Gemstone Rendering](https://developers.snap.com/lens-studio/features/graphics/materials/gem-rendering)
+  - [Occluders](https://developers.snap.com/lens-studio/features/graphics/materials/occluders)
+  - [Post Effect](https://developers.snap.com/lens-studio/features/graphics/materials/post-effects)
+- **Templates**
+  - [Depth Materials](https://developers.snap.com/lens-studio/features/graphics/materials/material-templates/depth-materials)
+  - [Depth Render Target](https://developers.snap.com/lens-studio/features/graphics/materials/material-templates/depth-render-target)
+  - [Cubemap](https://developers.snap.com/lens-studio/features/graphics/materials/material-templates/cubemap-template)
+  - [Gem Rendering](https://developers.snap.com/lens-studio/features/graphics/materials/material-templates/gem-rendering-template)
+  - [Volumetric Cloud](https://developers.snap.com/lens-studio/features/graphics/materials/material-templates/volumetric-cloud)
+
 
 #### Particles
 - **Guides**
