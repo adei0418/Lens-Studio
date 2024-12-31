@@ -176,9 +176,8 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Body Morph Guide](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/Body-Morph-guide)
   - [Body Mesh](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/body-mesh)
   - [Body Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/body-segmentation)
-  - Earring Try-On
-  - Eyewear Try-On
   - [Upper Garment Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/body/segmentation/upper-garment-segmentation)
+  - [Cloth Simulation Try-On](https://developers.snap.com/lens-studio/features/try-on/cloth-simulation-try-on)
   - [Person Normals and Depth](https://developers.snap.com/lens-studio/features/ar-tracking/body/segmentation/person-normals-and-depth)
   - [Portrait Skin Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/body/segmentation/portrait-skin-segmentation)
   - [Full Body Attachments](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/full-body-attachments)
@@ -187,11 +186,10 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Hand and Nails Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/body/segmentation/hand-segmentation)
   - [Shoulder](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/body)
   - [Skeletal](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/skeletal)
-  - Try-On Template
-  - Footwear Try-On
-  - Garment Transfer
-  - Necklace Try-On
-  - Cloth Simulation Try-On
+  - [Try-On Template](https://developers.snap.com/lens-studio/features/try-on/try-on-template)
+  - [Footwear Try-On](https://developers.snap.com/lens-studio/features/try-on/foot-tracking)
+  - [Garment Transfer](https://developers.snap.com/lens-studio/features/try-on/garment-transfer)
+  - [Necklace Try-On](https://developers.snap.com/lens-studio/features/try-on/necklace-try-on)
 
 #### Connected Lenses
 - **Guides**
@@ -214,12 +212,13 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Cinema 4D, 3D Object Export](https://developers.snap.com/lens-studio/assets-pipeline/3d/exporting-content/cinema-4d-3d-object-export)
   - [Maya, 3D Object Export](https://developers.snap.com/lens-studio/assets-pipeline/3d/exporting-content/maya-3d-object-export)
   - [Qlone, 3D Object Export](https://developers.snap.com/lens-studio/assets-pipeline/3d/exporting-content/qlone-3d-object-export)
-- **Templates**
   
 #### Face Tracking
 - **Guides**
   - [Face Effects Overview](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-effects-overview)
   - [Eye Color](https://developers.snap.com/lens-studio/features/ar-tracking/face/eye-color)
+  - [Earring Try-On](https://developers.snap.com/lens-studio/features/try-on/earring-try-on)
+  - [Eyewear Try-On](https://developers.snap.com/lens-studio/features/try-on/eyewear-try-on)
   - [Eye Tracking](https://developers.snap.com/lens-studio/features/ar-tracking/face/eye-tracking)
   - [Face Expressions](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-expressions)
   - [Face Image Picker Texture](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-image-picker-texture)
@@ -236,6 +235,7 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Hair Component](https://developers.snap.com/lens-studio/features/ar-tracking/face/hair-simulation)
   - [Head Binding](https://developers.snap.com/lens-studio/features/ar-tracking/face/head-attached-3d-objects)
   - [Working with Multiple Faces](https://developers.snap.com/lens-studio/features/ar-tracking/face/working-with-multiple-faces)
+
  
   
 - **Templates**
@@ -285,8 +285,8 @@ This is a collection of the template projects included with [Lens Studio](https:
 - **Guides**
   - 2D Hand Tracking
   - Hand and Nails Segmentation
-  - Wristwear Try-On
-  - Ring Binding Component
+  - [Wristwear Try-On](https://developers.snap.com/lens-studio/features/try-on/wristwear-try-on)
+  - [Ring Binding Component](https://developers.snap.com/lens-studio/features/try-on/ring-binding-component)
   - [Hand Gestures](https://developers.snap.com/lens-studio/features/ar-tracking/hand/hand-gestures)
 - **Templates**
   - [3D Hand Interactions](https://developers.snap.com/lens-studio/features/ar-tracking/hand/hand-tracking-templates/3d-hand-interactions)
@@ -400,50 +400,50 @@ This is a collection of the template projects included with [Lens Studio](https:
   
 #### Scripting
 - **Guides**
-  - Scripting Introduction
-  - Scripting Example
-  - Accessing Components
-  - Custom Script UI
-  - Custom TypeScript Configuration
-  - Debugging with Logger
-  - Script Components
-  - Script Editor
-  - Script Events
-  - Script Library Management
-  - Script Modules
+  - [Scripting Introduction](https://developers.snap.com/lens-studio/features/scripting/scripting-introduction)
+  - [Scripting Example](https://developers.snap.com/lens-studio/features/scripting/scripting-example)
+  - [Accessing Components](https://developers.snap.com/lens-studio/features/scripting/accessing-components)
+  - [Custom Script UI](https://developers.snap.com/lens-studio/features/scripting/custom-script-ui)
+  - [Custom TypeScript Configuration](https://developers.snap.com/lens-studio/features/scripting/custom-typescript-config)
+  - [Debugging with Logger](https://developers.snap.com/lens-studio/features/scripting/debugging)
+  - [Script Components](https://developers.snap.com/lens-studio/features/scripting/script-components)
+  - [Script Editor](https://developers.snap.com/lens-studio/features/scripting/script-editor)
+  - [Script Events](https://developers.snap.com/lens-studio/features/scripting/script-events)
+  - [Script Library Management](https://developers.snap.com/lens-studio/features/scripting/script-library-management)
+  - [Script Modules](https://developers.snap.com/lens-studio/features/scripting/script-modules)
   - [Tween Manager](https://developers.snap.com/lens-studio/lens-studio-workflow/adding-interactivity/tween-manager)
-  - Touch and Interactions
-  - TypeScript
-  - Visual Studio Code Extension
+  - [Touch and Interactions](https://developers.snap.com/lens-studio/features/scripting/touch-input)
+  - [TypeScript](https://developers.snap.com/lens-studio/features/scripting/typescript)
+  - [Visual Studio Code Extension](https://developers.snap.com/lens-studio/features/scripting/vscode-extension)
   - [Behavior](https://developers.snap.com/lens-studio/lens-studio-workflow/adding-interactivity/behavior)
   - Tween
 
 #### SnapML
 - **Guides**
-  - Compatibility
-  - Crop Texture
-  - Export from PyTorch
-  - Export from TensorFlow
-  - Faceless ML Component
-  - Model Zoo
-  - ML Component Overview
-  - Scripting ML Component
-  - SnapML Overview
-  - Quick Start
+  - [SnapML Overview](https://developers.snap.com/lens-studio/features/snap-ml/ml-overview)
+  - [ML Component Overview](https://developers.snap.com/lens-studio/features/snap-ml/ml-component/ml-component-overview)
+  - [Compatibility](https://developers.snap.com/lens-studio/features/snap-ml/compatibility)
+  - [Crop Texture](https://developers.snap.com/lens-studio/features/snap-ml/ml-component/crop-textures)
+  - [Export from PyTorch](https://developers.snap.com/lens-studio/features/snap-ml/ml-frameworks/export-from-pytorch)
+  - [Export from TensorFlow](https://developers.snap.com/lens-studio/features/snap-ml/ml-frameworks/export-from-tensorflow)
+  - [Faceless ML Component](https://developers.snap.com/lens-studio/features/snap-ml/ml-component/ml-faceless)
+  - [Model Zoo](https://developers.snap.com/lens-studio/features/snap-ml/model-zoo)
+  - [Scripting ML Component](https://developers.snap.com/lens-studio/features/snap-ml/ml-component/scripting-ml-component)
+  - [Quick Start](https://developers.snap.com/lens-studio/features/snap-ml/ml-quick-start)
 - **Templates**
-  - Classification
-  - Disappearing Effects
-  - Ground Segmentation
-  - ML Environment Matching
-  - Paint To Erase
-  - Portrait Relighting
-  - World Eraser Template
-  - Style Transfer
-  - Custom Segmentation
-  - Object Detection
-  - Multi Class Classification
-  - Multi-Object Detection
-  - Optical Character Recognition
+  - [Classification](https://developers.snap.com/lens-studio/features/snap-ml/snap-ml-templates/classification)
+  - [Disappearing Effects](https://developers.snap.com/lens-studio/features/snap-ml/snap-ml-templates/other-ml-templates/ml-eraser-disappearing-effects)
+  - [Ground Segmentation](https://developers.snap.com/lens-studio/features/snap-ml/snap-ml-templates/other-ml-templates/ground-segmentation)
+  - [ML Environment Matching](https://developers.snap.com/lens-studio/features/snap-ml/snap-ml-templates/other-ml-templates/ml-environment-matching)
+  - [Paint To Erase](https://developers.snap.com/lens-studio/features/snap-ml/snap-ml-templates/other-ml-templates/ml-eraser-paint-to-erase)
+  - [Portrait Relighting](https://developers.snap.com/lens-studio/features/snap-ml/snap-ml-templates/other-ml-templates/ml-portrait-relighting)
+  - [World Eraser](https://developers.snap.com/lens-studio/features/snap-ml/snap-ml-templates/other-ml-templates/ml-eraser-world-eraser)
+  - [Style Transfer](https://developers.snap.com/lens-studio/features/snap-ml/snap-ml-templates/style-transfer)
+  - [Custom Segmentation](https://developers.snap.com/lens-studio/features/snap-ml/snap-ml-templates/custom-segmentation)
+  - [Object Detection](https://developers.snap.com/lens-studio/features/snap-ml/snap-ml-templates/object-detection)
+  - [Multi Class Classification](https://developers.snap.com/lens-studio/features/snap-ml/snap-ml-templates/multi-class-classification)
+  - [Multi-Object Detection](https://developers.snap.com/lens-studio/features/snap-ml/snap-ml-templates/multi-object-detection)
+  - [Optical Character Recognition](https://developers.snap.com/lens-studio/features/snap-ml/snap-ml-templates/optical-character-recognition)
 
 #### Sponsored Lenses
 - **Guides**
@@ -457,25 +457,25 @@ This is a collection of the template projects included with [Lens Studio](https:
   
 #### Text
 - **Guides**
-  - Text Overview
-  - Text 3D
-  - Caption Sticker Component
-  - Localization
-  - Native Keyboard
-  - Shareable Text Edits
+  - [Text Overview](https://developers.snap.com/lens-studio/features/text/2d-text)
+  - [Text 3D](https://developers.snap.com/lens-studio/features/text/3d-text)
+  - [Caption Sticker Component](https://developers.snap.com/lens-studio/features/text/caption-sticker)
+  - [Localization](https://developers.snap.com/lens-studio/features/text/localization)
+  - [Native Keyboard](https://developers.snap.com/lens-studio/features/text/native-keyboard)
+  - [Shareable Text Edits](https://developers.snap.com/lens-studio/features/text/shareable-text-edits)
 - **Templates**
   - 3D Text
     
-#### Ray Tracing
-- **Guides**
-
 #### Remote APIs
 - **Guides**
-  - Remote Service Module
-  - AccuWeather API
-  - ChatGPT API
-  - Snapchat Places API
- 
+  - [Remote Service Module](https://developers.snap.com/lens-studio/features/remote-apis/remote-service-module)
+  - [AccuWeather API](https://developers.snap.com/lens-studio/features/remote-apis/weather-api-documentation)
+  - [ChatGPT API](https://developers.snap.com/lens-studio/features/remote-apis/chatgpt-api)
+  - [Snapchat Places API](https://developers.snap.com/lens-studio/features/remote-apis/snap-places-api)
+- **Examples**
+  - [Alpaca API Example](https://developers.snap.com/lens-studio/features/remote-apis/remote-apis-templates/stock-market-api)
+  - [AccuWeather API Example](https://developers.snap.com/lens-studio/features/remote-apis/remote-apis-templates/weather-api)
+    
 #### UI
 - **Guides**
   - [Dynamic Response](https://developers.snap.com/lens-studio/features/prompt-response/dynamic-response)
