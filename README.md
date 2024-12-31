@@ -318,12 +318,11 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### Lights, Cameras and Shadows
 - **Guides**
-  - Light and Shadow
-  - Environment Matching
+  - [Light and Shadow](https://developers.snap.com/lens-studio/features/graphics/light-and-shadow)
+  - [Environment Matching](https://developers.snap.com/lens-studio/features/graphics/ml-environment-matching)
   - Screen Space Normals Generation
   - Signed Distance Field Generator
-  - Gaussian Splatting
-  - Person Normals and Depth
+  - [Person Normals and Depth](https://developers.snap.com/lens-studio/features/graphics/person-normals-and-depth)
 
 #### Location AR
 - **Guides**
@@ -340,8 +339,12 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Overview](https://developers.snap.com/lens-studio/features/graphics/materials/overview)
   - [Cubemaps](https://developers.snap.com/lens-studio/features/graphics/materials/cubemaps)
   - [Gemstone Rendering](https://developers.snap.com/lens-studio/features/graphics/materials/gem-rendering)
+  - [Gaussian Splatting](https://developers.snap.com/lens-studio/features/graphics/gaussian-splatting)
   - [Occluders](https://developers.snap.com/lens-studio/features/graphics/materials/occluders)
   - [Post Effect](https://developers.snap.com/lens-studio/features/graphics/materials/post-effects)
+  - [Order-Independent Transparency (OIT)](https://developers.snap.com/lens-studio/features/graphics/advanced/order-independent-transparency)
+  - [Screen Space Normals Generation](https://developers.snap.com/lens-studio/features/graphics/advanced/screen-space-normals-generation)
+  - [Signed Distance Field Generator](https://developers.snap.com/lens-studio/features/graphics/advanced/sdf-generator)
 - **Templates**
   - [Depth Materials](https://developers.snap.com/lens-studio/features/graphics/materials/material-templates/depth-materials)
   - [Depth Render Target](https://developers.snap.com/lens-studio/features/graphics/materials/material-templates/depth-render-target)
@@ -352,14 +355,16 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### Particles
 - **Guides**
-  - Introduction and Concepts
-  - VFX Sub-Graph Library
-  - VFX Collisions
-  - VFX Graph Optimization
-  - VFX vs GPU Particles
+  - [Introduction and Concepts](https://developers.snap.com/lens-studio/features/graphics/particles/vfx-editor/introduction-and-concepts)
+  - [Overview](https://developers.snap.com/lens-studio/features/graphics/particles/gpu-particles/overview)
+  - [VFX Sub-Graph Library](https://developers.snap.com/lens-studio/features/graphics/particles/vfx-editor/vfx-sub-graph-library)
+  - [VFX Collisions](https://developers.snap.com/lens-studio/features/graphics/particles/vfx-editor/vfx-collisions)
+  - [VFX Graph Optimization](https://developers.snap.com/lens-studio/features/graphics/particles/vfx-editor/vfx-graph-optimization)
+  - [VFX vs GPU Particles](https://developers.snap.com/lens-studio/features/graphics/particles/vfx-editor/vfx-vs-gpu-particles)
 - **Templates**
-  - VFX Collision
-  - VFX
+  - [Particles](https://developers.snap.com/lens-studio/features/graphics/particles/gpu-particles/gpu-particles-templates/particles)
+  - [VFX Collision](https://developers.snap.com/lens-studio/features/graphics/particles/vfx-editor/vfx-templates/vfx-collision)
+  - [VFX](https://developers.snap.com/lens-studio/features/graphics/particles/vfx-editor/vfx-templates/vfx)
 
 #### Persistent Storage
 - **Guides**
@@ -387,7 +392,15 @@ This is a collection of the template projects included with [Lens Studio](https:
   - Gravity Gun
   - Cloth Simulation
   - Physics Lab
-    
+
+
+#### Ray Tracing
+- **Guides**
+  - [Ray Tracing Overview](https://developers.snap.com/lens-studio/features/graphics/raytracing/raytracing-guide)
+- **Templates**
+  - [Ray Tracing - Reflections](https://developers.snap.com/lens-studio/features/graphics/raytracing/raytracing-templates/raytracing-reflections)
+
+  
 #### Scripting
 - **Guides**
   - Scripting Introduction
