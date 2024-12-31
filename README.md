@@ -309,11 +309,8 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### Lens Cloud
 - **Guides**
-  - Lens Cloud Overview
-  - Multi-User Services
-  - Location-Based Services
-  - Remote Assets
-  - Storage Services
+  - [Lens Cloud Overview](https://developers.snap.com/lens-studio/features/lens-cloud/lens-cloud-overview)
+  - [Remote Assets](https://developers.snap.com/lens-studio/features/lens-cloud/remote-assets-overview)
  
 
 #### Lights, Cameras and Shadows
@@ -326,13 +323,12 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### Location AR
 - **Guides**
-  - Landmarkers
-  - Map Component
+  - [Custom Location Creator Lens](https://developers.snap.com/lens-studio/features/location-ar/custom-landmarker-scan)
+  - [Map Component](https://developers.snap.com/lens-studio/features/location-ar/map-component)
 - **Templates**
-  - Custom Location
-  - Custom Location Creator Lens
-  - City-Scale AR
-  - Spatial Persistence
+  - [Custom Location](https://developers.snap.com/lens-studio/features/location-ar/custom-landmarker)
+  - [City-Scale AR](https://developers.snap.com/lens-studio/features/location-ar/city-landmarker)
+  - [Spatial Persistence](https://developers.snap.com/lens-studio/features/location-ar/spatial-persistence)
     
 #### Materials
 - **Guides**
