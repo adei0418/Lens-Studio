@@ -150,11 +150,12 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### Bitmoji Avatar
 - **Guides**
-  - Bitmoji 2D
-  - Bitmoji 3D
-  - Animating Bitmoji 3D
-  - Bitmoji Head
-  - Adding Bitmoji Props
+  - [Overview](https://developers.snap.com/lens-studio/features/bitmoji-avatar/overview)
+  - [Bitmoji 2D](https://developers.snap.com/lens-studio/features/bitmoji-avatar/bitmoji-2d)
+  - [Bitmoji 3D](https://developers.snap.com/lens-studio/features/bitmoji-avatar/bitmoji-3d)
+  - [Animating Bitmoji 3D](https://developers.snap.com/lens-studio/features/bitmoji-avatar/animating-bitmoji-3d)
+  - [Bitmoji Head](https://developers.snap.com/lens-studio/features/bitmoji-avatar/bitmoji-head)
+  - [Adding Bitmoji Props](https://developers.snap.com/lens-studio/features/bitmoji-avatar/bitmoji-add-props)
 - **Templates**
   - Bitmoji Runner Game
 
@@ -194,16 +195,16 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### Connected Lenses
 - **Guides**
-  - Connected Lenses Overview
-  - Development Workflow
-  - Lifecycle
-  - Sharing Data Between Partipants
-  - Connected Lenses Example
+  - [Connected Lenses Overview](https://developers.snap.com/lens-studio/features/connected-lenses/connected-lenses-overview)
+  - [Development Workflow](https://developers.snap.com/lens-studio/features/connected-lenses/development-workflow)
+  - [Lifecycle](https://developers.snap.com/lens-studio/features/connected-lenses/connected-lenses-lifecycle)
+  - [Sharing Data Between Partipants](https://developers.snap.com/lens-studio/features/connected-lenses/sharing-data)
+  - [Connected Lenses Example](https://developers.snap.com/lens-studio/features/connected-lenses/connected-lenses-example)
 - **Templates**
-  - Connected Lens
-  - Sync Framework
-  - Sync Framework - Voting
-  - Realtime Store
+  - [Connected Lens](https://developers.snap.com/lens-studio/features/connected-lenses/connected-lenses-templates/connected)
+  - [Sync Framework](https://developers.snap.com/lens-studio/features/connected-lenses/connected-lenses-templates/sync-framework)
+  - [Sync Framework - Voting](https://developers.snap.com/lens-studio/features/connected-lenses/connected-lenses-templates/voting-template)
+  - [Realtime Store](https://developers.snap.com/lens-studio/features/connected-lenses/connected-lenses-templates/realtime-store)
 
 #### Exporting
 - **Guides**
@@ -270,15 +271,15 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### GenAI Suite
 - **Guides**
-  - 3D Capture
-  - 3D Asset Generation
-  - Bitmoji Animation Generation
-  - Body Morph Generation
-  - Easy Lens (Beta)
-  - ML Face Effect Generation
-  - Garment Generation
-  - Head Morph Generation
-  - Immersive ML Generation
+  - [3D Capture](https://developers.snap.com/lens-studio/features/genai-suite/3d-capture)
+  - [3D Asset Generation](https://developers.snap.com/lens-studio/features/genai-suite/3dag-generation)
+  - [Bitmoji Animation Generation](https://developers.snap.com/lens-studio/features/genai-suite/bitmoji-animations-generation)
+  - [Body Morph Generation](https://developers.snap.com/lens-studio/features/genai-suite/body-morph-generation)
+  - [Easy Lens (Beta)](https://developers.snap.com/lens-studio/features/genai-suite/easy-lens)
+  - [ML Face Effect Generation](https://developers.snap.com/lens-studio/features/genai-suite/face-ml-generation)
+  - [Garment Generation](https://developers.snap.com/lens-studio/features/genai-suite/garment-generation)
+  - [Head Morph Generation](https://developers.snap.com/lens-studio/features/genai-suite/head-morph-generation)
+  - [Immersive ML Generation](https://developers.snap.com/lens-studio/features/genai-suite/immersive-ml-generation)
 
 #### Hand Tracking
 - **Guides**
