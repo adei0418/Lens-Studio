@@ -114,14 +114,15 @@ This is a collection of the template projects included with [Lens Studio](https:
 #### Animations
 - **Guides**
   - [3D Animation](https://developers.snap.com/lens-studio/assets-pipeline/3d/animation/3d-animation)
-  - Animation Curve Editor
-  - Animation Events
-  - Animation Player
-  - Animation State Manager
-  - Importing 3D Animations
+  - [Animation Curve Editor](https://developers.snap.com/lens-studio/features/animation/anim-curve-editor)
+  - [Animation Events](https://developers.snap.com/lens-studio/features/animation/animation-events)
+  - [Animation Player](https://developers.snap.com/lens-studio/features/animation/animation-player)
+  - [Animation State Manager](https://developers.snap.com/lens-studio/features/animation/animation-state-manager)
+  - [Importing 3D Animations](https://developers.snap.com/lens-studio/features/animation/importing-3d-animations)
   - Transitions & Triggering
   - [Pin To Mesh](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/3d/pin-to-mesh)
   - [Prefabs](https://developers.snap.com/lens-studio/lens-studio-workflow/prefabs)
+  - [Playing Animations Programmatically](https://developers.snap.com/lens-studio/features/animation/playing-animations-programatically)
   - [Procedural Mesh](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/3d/procedural-mesh)
   - [Vertex Animation Textures Guide](https://developers.snap.com/lens-studio/assets-pipeline/3d/animation/vertex-animation-textures-guide)
   - [Vertex Animation](https://developers.snap.com/lens-studio/assets-pipeline/3d/animation/vertex-animation)
@@ -134,19 +135,18 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### Audio
 - **Overview**
-  - Audio Tracks
-  - Audio Component
-  - Audio Templates
-  - Audio Listener
-  - Audio Output
-  - Speech Recognition
-  - Text To Speech
+  - [Audio Tracks](https://developers.snap.com/lens-studio/features/audio/audio-track-assets)
+  - [Audio Component](https://developers.snap.com/lens-studio/features/audio/playing-audio)
+  - [Audio Listener](https://developers.snap.com/lens-studio/features/audio/audio-listener)
+  - [Audio Output](https://developers.snap.com/lens-studio/features/audio/audio-output)
+  - [Speech Recognition](https://developers.snap.com/lens-studio/features/audio/speech-recognition)
+  - [Text To Speech](https://developers.snap.com/lens-studio/features/audio/text-to-speech)
 - **Templates**
-  - Audio Analyzer
-  - Audio Output
-  - Keyword Detection
-  - Music Video
-  - Soundboard
+  - [Audio Analyzer](https://developers.snap.com/lens-studio/features/audio/audio-templates/audio-analyzer)
+  - [Audio Output](https://developers.snap.com/lens-studio/features/audio/audio-templates/audio-output)
+  - [Keyword Detection](https://developers.snap.com/lens-studio/features/audio/audio-templates/keyword-detection)
+  - [Music Video](https://developers.snap.com/lens-studio/features/audio/audio-templates/music-video)
+  - [Soundboard](https://developers.snap.com/lens-studio/features/audio/audio-templates/soundboard)
 
 #### Bitmoji Avatar
 - **Guides**
@@ -286,16 +286,17 @@ This is a collection of the template projects included with [Lens Studio](https:
   - Hand and Nails Segmentation
   - Wristwear Try-On
   - Ring Binding Component
-- **Templates**
-  - 3D Hand Interactions
-  - 3D Hand Tracking
-  - 3D Hand VFX
-  - ASL Fingerspelling
   - [Hand Gestures](https://developers.snap.com/lens-studio/features/ar-tracking/hand/hand-gestures)
-  - Hand Segmentation
-  - Hand
-  - Hand Joints
-  - Wristwear Try-On
+- **Templates**
+  - [3D Hand Interactions](https://developers.snap.com/lens-studio/features/ar-tracking/hand/hand-tracking-templates/3d-hand-interactions)
+  - [3D Hand Tracking](https://developers.snap.com/lens-studio/features/ar-tracking/hand/hand-tracking-templates/3d-hand-tracking)
+  - [3D Hand VFX](https://developers.snap.com/lens-studio/features/ar-tracking/hand/hand-tracking-templates/3d-hand-vfx)
+  - [ASL Fingerspelling](https://developers.snap.com/lens-studio/features/ar-tracking/hand/hand-tracking-templates/asl-fingerspelling)
+  - [Hand Gestures](https://developers.snap.com/lens-studio/features/ar-tracking/hand/hand-tracking-templates/hand-gestures)
+  - [Hand Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/hand/hand-tracking-templates/hand-segmentation)
+  - [Hand](https://developers.snap.com/lens-studio/features/ar-tracking/hand/hand-tracking-templates/hand)
+  - [Hand Joints](https://developers.snap.com/lens-studio/features/ar-tracking/hand/hand-tracking-templates/hand-joints)
+  - [Wristwear Try-On]()
   - Ring Binding Component
 
 #### Importing
