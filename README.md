@@ -297,8 +297,6 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Hand Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/hand/hand-tracking-templates/hand-segmentation)
   - [Hand](https://developers.snap.com/lens-studio/features/ar-tracking/hand/hand-tracking-templates/hand)
   - [Hand Joints](https://developers.snap.com/lens-studio/features/ar-tracking/hand/hand-tracking-templates/hand-joints)
-  - [Wristwear Try-On]()
-  - Ring Binding Component
 
 #### Importing
 - **Guides**
@@ -485,15 +483,14 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Masking](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/2d/masking-component)
   - [Canvas](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/2d/canvas-component)
   - [Pixel Accurate Rendering](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/2d/pixel-accurate-rendering)
-  - Camera Roll Widget
+  - [Camera Roll Widget](https://developers.snap.com/lens-studio/features/ui/camera-roll-widget)
   - [Image](https://developers.snap.com/lens-studio/assets-pipeline/2d/image)
   - [2D Animation](https://developers.snap.com/lens-studio/assets-pipeline/2d/2d-animation)
-  - Image Carousel
-  - FlexBox Layout
-  - UI Widgets
-  - UI Scroll View
+  - [Image Carousel](https://developers.snap.com/lens-studio/features/ui/ui-image-carousel)
+  - [FlexBox Layout](https://developers.snap.com/lens-studio/features/ui/flexbox)
+  - [UI Widgets](https://developers.snap.com/lens-studio/features/ui/ui-widgets)
+  - [UI Scroll View](https://developers.snap.com/lens-studio/features/ui/ui-scroll-view)
   - [GIPHY Import](https://developers.snap.com/lens-studio/assets-pipeline/2d/giphy-import)
-  - Leaderboard
   - [Video](https://developers.snap.com/lens-studio/assets-pipeline/2d/video)
 - **Templates**
   - 4 Randomizers
@@ -510,36 +507,23 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### User, Friends & Leaderboard
 - **Guides**
-  - User Context System
-  - Friends Components
-  - Friends Carousel
+  - [User Context Overview](https://developers.snap.com/lens-studio/features/user-context/overview)
+  - [Friends Components](https://developers.snap.com/lens-studio/features/user-context/friends-component)
+  - [Friends Carousel](https://developers.snap.com/lens-studio/features/user-context/friends-carousel)
+  - [Leaderboard](https://developers.snap.com/lens-studio/features/user-context/leaderboard)
 - **Templates**
-  - Friends Sorting
-  - This or That
-
-#### User, Friends & Leaderboard
-- **Guides**
-  - User Context System
-  - Friends Components
-  - Friends Carousel
-- **Templates**
-  - Friends Sorting
-  - This or That
+  - [Friends Sorting](https://developers.snap.com/lens-studio/features/user-context/examples/friends-sorting)
+  - [This or That](https://developers.snap.com/lens-studio/features/user-context/examples/this-or-that)
 
 #### Voice ML
 - **Guides**
-  - Question & Answering Service Template
-  - 2D Animated TTS
-  - Audio Classification Template
-  - Sentiment Analyzer
-  - Speech Recognition
-  - Text To Speech
-  - Voice UI
-
-#### VFX Editor
-- **Guides**
-  - Overview
-  - Nodes
+  - [Question & Answering Service Template](https://developers.snap.com/lens-studio/features/voice-ml/q&a-template-guide)
+  - [2D Animated TTS](https://developers.snap.com/lens-studio/features/voice-ml/2d-animated-tts)
+  - [Audio Classification Template](https://developers.snap.com/lens-studio/features/voice-ml/audio-classification)
+  - [Sentiment Analyzer](https://developers.snap.com/lens-studio/features/voice-ml/sentiment-analyzer)
+  - [Speech Recognition](https://developers.snap.com/lens-studio/features/voice-ml/speech-recognition)
+  - [Text To Speech](https://developers.snap.com/lens-studio/features/voice-ml/text-to-speech)
+  - [Voice UI](https://developers.snap.com/lens-studio/features/voice-ml/voice-ui)
 
 #### World Tracking
 - **Guides**
