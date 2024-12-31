@@ -364,30 +364,31 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### Persistent Storage
 - **Guides**
-  - Persistent Cloud Storage
-  - Single Player Example
-  - Multiplayer Example
-  - Persistent Storage
+  - [Persistent Cloud Storage](https://developers.snap.com/lens-studio/features/persistent-cloud-storage/overview)
+  - [Single Player Example](https://developers.snap.com/lens-studio/features/persistent-cloud-storage/solo-example)
+  - [Multiplayer Example](https://developers.snap.com/lens-studio/features/persistent-cloud-storage/multiplayer-example)
+  - [Persistent Storage](https://developers.snap.com/lens-studio/features/persistent-cloud-storage/persistent-storage)
 - **Templates**
-  - High Score
-  - Simple High Score
+  - [High Score](https://developers.snap.com/lens-studio/features/persistent-cloud-storage/persistent-cloud-storage-templates/high-score)
+  - [Simple High Score](https://developers.snap.com/lens-studio/features/persistent-cloud-storage/persistent-cloud-storage-templates/simple-high-score)
 
 #### Physics
 - **Guides**
-  - Physics Overview
-  - Physics Assets and Components
-  - Force
-  - Raycast
-  - Collision and Overlap
-  - Cloth Simulation
+  - [Physics Overview](https://developers.snap.com/lens-studio/features/physics/physics-overview)
+  - [Physics Assets and Components](https://developers.snap.com/lens-studio/features/physics/physics-component)
+  - [Force](https://developers.snap.com/lens-studio/features/physics/force)
+  - [Raycast](https://developers.snap.com/lens-studio/features/physics/raycast)
+  - [Collision and Overlap](https://developers.snap.com/lens-studio/features/physics/collision-and-overlap)
+  - [Cloth Simulation](https://developers.snap.com/lens-studio/features/physics/cloth-simulation)
 - **Templates**
-  - Physics
-  - Physics Toys
-  - Responsive Plants
-  - Collect Coins
-  - Gravity Gun
-  - Cloth Simulation
-  - Physics Lab
+  - [Physics](https://developers.snap.com/lens-studio/features/physics/physics-examples/physics)
+  - [Physics Toys](https://developers.snap.com/lens-studio/features/physics/physics-examples/physics-toys)
+  - [Responsive Plants](https://developers.snap.com/lens-studio/features/physics/physics-examples/physics-responsive-plants)
+  - [Lets Break it](https://developers.snap.com/lens-studio/features/physics/physics-examples/physics-lets-break-it)
+  - [Collect Coins](https://developers.snap.com/lens-studio/features/physics/physics-examples/physics-collect-coins)
+  - [Gravity Gun](https://developers.snap.com/lens-studio/features/physics/physics-examples/physics-gravity-gun)
+  - [Cloth Simulation](https://developers.snap.com/lens-studio/features/physics/physics-examples/cloth-simulation)
+  - [Physics Lab](https://developers.snap.com/lens-studio/features/physics/physics-examples/physics-lab-template)
 
 
 #### Ray Tracing
@@ -477,6 +478,7 @@ This is a collection of the template projects included with [Lens Studio](https:
  
 #### UI
 - **Guides**
+  - [Dynamic Response](https://developers.snap.com/lens-studio/features/prompt-response/dynamic-response)
   - [Screen Transform Overview](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/2d/screen-transform-overview)
   - [Screen Transform Properties](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/2d/screen-transform-properties)
   - [Screen Region and Device Simulation](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/2d/screen-region-device-simulation)
@@ -503,6 +505,7 @@ This is a collection of the template projects included with [Lens Studio](https:
   - Quiz
   - [Simple Canvas](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/scene-set-up-templates/canvas-template)
   - Tournament
+  - [Tappable Question](https://developers.snap.com/lens-studio/features/prompt-response/tappable-question)
   - What x Are You Spinner
 
 #### User, Friends & Leaderboard
