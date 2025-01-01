@@ -42,9 +42,6 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [User Friends Leaderboard](#user-friends-leaderboard)
   - [Voice ML](#voice-ml)
   - [World Tracking](#world-tracking)
-- [Assets](#assets)
-- [Utils](#utils)
-- [Plugins](#plugins)
 - [License](#license)
 
 ---
