@@ -84,7 +84,6 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Animation Player](https://developers.snap.com/lens-studio/features/animation/animation-player)
   - [Animation State Manager](https://developers.snap.com/lens-studio/features/animation/animation-state-manager)
   - [Importing 3D Animations](https://developers.snap.com/lens-studio/features/animation/importing-3d-animations)
-  - Transitions & Triggering
   - [Pin To Mesh](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/3d/pin-to-mesh)
   - [Prefabs](https://developers.snap.com/lens-studio/lens-studio-workflow/prefabs)
   - [Playing Animations Programmatically](https://developers.snap.com/lens-studio/features/animation/playing-animations-programatically)
@@ -128,15 +127,13 @@ This is a collection of the template projects included with [Lens Studio](https:
 #### Body Tracking
 - **Guides**
   - [3D Body and Hand Tracking](https://developers.snap.com/lens-studio/features/ar-tracking/body/object-tracking-3d)
-  - Body Mesh
-  - Body Mesh Attachments
-  - External Body Mesh
-  - External Body Mesh Creation
-  - Head & Neck Tracking
-  - Normals and Depth
+  - [Body Mesh](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-mesh-overview)
+  - [External Body Mesh](https://developers.snap.com/lens-studio/features/ar-tracking/body/external-mesh)
+  - [External Body Mesh Creation](https://developers.snap.com/lens-studio/features/ar-tracking/body/preparing-external-mesh)
+  - [Head & Neck Tracking](https://www.youtube.com/watch?v=6SYBmg8O6Fg&t=1615s)
   - [Fullscreen Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/body/segmentation/fullscreen-segmentation)
   - [Segmentation Trails](https://developers.snap.com/lens-studio/features/ar-tracking/body/segmentation/segmentation-trails)
-  - Upper Body Tracking
+  - [Upper Body Tracking](https://developers.snap.com/lens-studio/features/ar-tracking/body/upper-body-tracking)
 - **Templates**
   - [3D Body Tracking](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/3d-body-tracking)
   - [Body Morph Guide](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/Body-Morph-guide)
@@ -149,7 +146,6 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Full Body Attachments](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/full-body-attachments)
   - [Full Body Triggers](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/full-body-triggers)
   - [Footwear Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/body/segmentation/footwear-segmentation)
-  - [Hand and Nails Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/body/segmentation/hand-segmentation)
   - [Shoulder](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/body)
   - [Skeletal](https://developers.snap.com/lens-studio/features/ar-tracking/body/body-templates/skeletal)
   - [Try-On Template](https://developers.snap.com/lens-studio/features/try-on/try-on-template)
@@ -246,8 +242,7 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### Hand Tracking
 - **Guides**
-  - 2D Hand Tracking
-  - Hand and Nails Segmentation
+  - [Hand and Nails Segmentation](https://developers.snap.com/lens-studio/features/ar-tracking/body/segmentation/hand-segmentation)
   - [Wristwear Try-On](https://developers.snap.com/lens-studio/features/try-on/wristwear-try-on)
   - [Ring Binding Component](https://developers.snap.com/lens-studio/features/try-on/ring-binding-component)
   - [Hand Gestures](https://developers.snap.com/lens-studio/features/ar-tracking/hand/hand-gestures)
@@ -278,8 +273,8 @@ This is a collection of the template projects included with [Lens Studio](https:
 - **Guides**
   - [Light and Shadow](https://developers.snap.com/lens-studio/features/graphics/light-and-shadow)
   - [Environment Matching](https://developers.snap.com/lens-studio/features/graphics/ml-environment-matching)
-  - Screen Space Normals Generation
-  - Signed Distance Field Generator
+  - [Screen Space Normals Generation](https://developers.snap.com/lens-studio/features/graphics/advanced/screen-space-normals-generation)
+  - [Signed Distance Field Generator](https://developers.snap.com/lens-studio/features/graphics/advanced/sdf-generator)
   - [Person Normals and Depth](https://developers.snap.com/lens-studio/features/graphics/person-normals-and-depth)
 
 #### Location AR
