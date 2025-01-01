@@ -127,6 +127,7 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Vertex Animation Textures Guide](https://developers.snap.com/lens-studio/assets-pipeline/3d/animation/vertex-animation-textures-guide)
   - [Vertex Animation](https://developers.snap.com/lens-studio/assets-pipeline/3d/animation/vertex-animation)
 - **Templates**
+  - [Animated Object (2021)](https://developers.snap.com/lens-studio/examples/lens-examples/animated-object-2021)
 
 #### Asset Library
 - **Guides**
@@ -157,7 +158,7 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Bitmoji Head](https://developers.snap.com/lens-studio/features/bitmoji-avatar/bitmoji-head)
   - [Adding Bitmoji Props](https://developers.snap.com/lens-studio/features/bitmoji-avatar/bitmoji-add-props)
 - **Templates**
-  - Bitmoji Runner Game
+  - [Bitmoji Runner Game](https://developers.snap.com/lens-studio/examples/lens-examples/bitmoji-runner-game/runner-game-1)
 
 #### Body Tracking
 - **Guides**
@@ -401,6 +402,7 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Scripting Introduction](https://developers.snap.com/lens-studio/features/scripting/scripting-introduction)
   - [Scripting Example](https://developers.snap.com/lens-studio/features/scripting/scripting-example)
   - [Accessing Components](https://developers.snap.com/lens-studio/features/scripting/accessing-components)
+  - [Behavior](https://developers.snap.com/lens-studio/lens-studio-workflow/adding-interactivity/behavior)
   - [Custom Script UI](https://developers.snap.com/lens-studio/features/scripting/custom-script-ui)
   - [Custom TypeScript Configuration](https://developers.snap.com/lens-studio/features/scripting/custom-typescript-config)
   - [Debugging with Logger](https://developers.snap.com/lens-studio/features/scripting/debugging)
@@ -409,12 +411,13 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Script Events](https://developers.snap.com/lens-studio/features/scripting/script-events)
   - [Script Library Management](https://developers.snap.com/lens-studio/features/scripting/script-library-management)
   - [Script Modules](https://developers.snap.com/lens-studio/features/scripting/script-modules)
+  - [Tween](https://developers.snap.com/lens-studio/examples/lens-examples/tween)
   - [Tween Manager](https://developers.snap.com/lens-studio/lens-studio-workflow/adding-interactivity/tween-manager)
   - [Touch and Interactions](https://developers.snap.com/lens-studio/features/scripting/touch-input)
   - [TypeScript](https://developers.snap.com/lens-studio/features/scripting/typescript)
   - [Visual Studio Code Extension](https://developers.snap.com/lens-studio/features/scripting/vscode-extension)
-  - [Behavior](https://developers.snap.com/lens-studio/lens-studio-workflow/adding-interactivity/behavior)
-  - Tween
+- **Templates**
+  - [Behavior](https://developers.snap.com/lens-studio/examples/lens-examples/behavior)
 
 #### SnapML
 - **Guides**
@@ -462,7 +465,7 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Native Keyboard](https://developers.snap.com/lens-studio/features/text/native-keyboard)
   - [Shareable Text Edits](https://developers.snap.com/lens-studio/features/text/shareable-text-edits)
 - **Templates**
-  - 3D Text
+  - [3D Text](https://developers.snap.com/lens-studio/examples/lens-examples/3d-text)
     
 #### Remote APIs
 - **Guides**
@@ -493,17 +496,18 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [GIPHY Import](https://developers.snap.com/lens-studio/assets-pipeline/2d/giphy-import)
   - [Video](https://developers.snap.com/lens-studio/assets-pipeline/2d/video)
 - **Templates**
-  - 4 Randomizers
-  - Configuration
-  - Drawing
-  - Freeze Frame
-  - Meme Sticker
-  - Persistent Noteboard
-  - Quiz
-  - [Simple Canvas](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/scene-set-up-templates/canvas-template)
-  - Tournament
+  - [4 Randomizers](https://developers.snap.com/lens-studio/examples/lens-examples/randomizers)
+  - [Configuration](https://developers.snap.com/lens-studio/examples/lens-examples/configuration)
+  - [Drawing](https://developers.snap.com/lens-studio/examples/lens-examples/drawing)
+  - [Freeze Frame](https://developers.snap.com/lens-studio/examples/lens-examples/freezing-template)
+  - [Fullscreen](https://developers.snap.com/lens-studio/examples/lens-examples/fullscreen)
+  - [Meme Sticker](https://developers.snap.com/lens-studio/examples/lens-examples/meme-template)
+  - [Persistent Noteboard](https://developers.snap.com/lens-studio/examples/lens-examples/persistent-noteboard)
+  - [Quiz](https://developers.snap.com/lens-studio/examples/lens-examples/quiz-template)
+  - [Simple Canvas](https://developers.snap.com/lens-studio/examples/lens-examples/simple-canvas)
+  - [Tournament](https://developers.snap.com/lens-studio/examples/lens-examples/tournament)
   - [Tappable Question](https://developers.snap.com/lens-studio/features/prompt-response/tappable-question)
-  - What x Are You Spinner
+  - [What x Are You Spinner](https://developers.snap.com/lens-studio/examples/lens-examples/What-x-are-you-spinner)
 
 #### User, Friends & Leaderboard
 - **Guides**
@@ -528,15 +532,15 @@ This is a collection of the template projects included with [Lens Studio](https:
 #### World Tracking
 - **Guides**
   - [3D Object Manipulation](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/3d/manipulation)
+  - [Content Editor Tools](https://developers.snap.com/lens-studio/examples/lens-examples/content-editor/content-editor-tools)
   - [Device Tracking](https://developers.snap.com/lens-studio/features/ar-tracking/world/tracking-modes)
   - [Marker Tracking](https://developers.snap.com/lens-studio/features/ar-tracking/world/marker-tracking)
   - [Object Tracking](https://developers.snap.com/lens-studio/features/ar-tracking/world/object-tracking)
   - [World Mesh and Depth Texture](https://developers.snap.com/lens-studio/features/ar-tracking/world/world-mesh-and-depth-texture)
   - [Combining World and Face](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/combining-face-with-world)
 - **Templates**
-  - Content Editor Tools
-  - Content Editor Tools Continued
-  - Cutout
+  - [Cutout](https://developers.snap.com/lens-studio/examples/lens-examples/cutout)
+  - [Content Editor Tools](https://developers.snap.com/lens-studio/examples/lens-examples/content-editor/content-editor-tools-template)
   - [Instant World Hit Test](https://developers.snap.com/lens-studio/features/ar-tracking/world/world-templates/instant-world-hit-test)
   - [Marker](https://developers.snap.com/lens-studio/features/ar-tracking/world/world-templates/image-marker)
   - [Marker with Snapcode](https://developers.snap.com/lens-studio/features/ar-tracking/world/world-templates/marker-with-snapcode)
@@ -544,12 +548,12 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Simple World Mesh](https://developers.snap.com/lens-studio/features/ar-tracking/world/world-templates/simple-world-mesh)
   - [World Mesh Example](https://developers.snap.com/lens-studio/features/ar-tracking/world/world-templates/world-mesh)
   - [World Tracking Planes](https://developers.snap.com/lens-studio/features/ar-tracking/world/world-templates/world-tracking-planes)
-  - Depth Toybox
-  - Look Around
-  - Picture Frame
-  - Portal
-  - Static Object
-  - Window
+  - [Depth Toybox](https://developers.snap.com/lens-studio/examples/lens-examples/depth-toybox)
+  - [Look Around](https://developers.snap.com/lens-studio/examples/lens-examples/look-around)
+  - [Picture Frame](https://developers.snap.com/lens-studio/examples/lens-examples/picture-frame)
+  - [Portal](https://developers.snap.com/lens-studio/examples/lens-examples/portal)
+  - [Static Object](https://developers.snap.com/lens-studio/examples/lens-examples/static-object)
+  - [Window](https://developers.snap.com/lens-studio/examples/lens-examples/window)
     
 ## System Requirements
 
