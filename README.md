@@ -24,7 +24,7 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Materials](#materials)
   - [Particles](#particles)
   - [Persistent Storage](#persistent-storage)
-  - [Publishing]
+  - [Publishing](#publishing)
   - [Plugins](#plugins)
     - [Configuring](#configuring)
     - [Distrubting](#distrubting)
