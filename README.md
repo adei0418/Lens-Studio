@@ -35,7 +35,7 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Remote APIs](#remote-apis)
   - [Scripting](#scripting)
   - [SnapML]($snapml)
-  - [Sponsored Lenses]
+  - [Sponsored Lenses](#sponsored-lenses)
   - [Texturing](#texturing)
   - [Text](#text)
   - [UI](#ui)
