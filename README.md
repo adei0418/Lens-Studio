@@ -49,42 +49,21 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 ![image](https://github.com/user-attachments/assets/8e615eff-05ad-4b17-b35c-327c9c1305bb)
 
-#### Plugins
-- **Guides**
-  - Importing and Exporting Resources
-
-### Plugin Development
-
-#### Plugins
-- **Guides**
-  - Overview
-  - Basic Structures
-  - Best Practices
-  - Building Plugins
-  - Common Tasks
-  - Installing
-  - Figma Importer Plugin
-  - Managing Plugins
-  - Figma Importer Plugin
-  - Transitions Library Plugin
-
-
 ### Publishing a Lens
 
 #### Distrubting your Lens
 - **Guides**
-  - Lens Discovery
-  - Sharing Your Lens
-  - Snapcodes
-  - Snap Kit
-  - Unlocking Lenses
-
+  - [Lens Discovery](https://developers.snap.com/lens-studio/publishing/distributing/lens-discovery)
+  - [Sharing Your Lens](https://developers.snap.com/lens-studio/publishing/distributing/sharing-your-lens)
+  - [Snapcodes](https://developers.snap.com/lens-studio/publishing/distributing/snapcodes)
+  - [Snap Kit](https://developers.snap.com/lens-studio/publishing/distributing/snap-kit)
+  - [Unlocking Lenses](https://developers.snap.com/lens-studio/publishing/distributing/unlocking-lenses)
 #### Configuring your Project
 - **Guides**
-  - Configuring Project Settings
-  - Preview Videos
-  - Creating an Icon
-  - Lens Hints
+  - [Configuring Project Settings](https://developers.snap.com/lens-studio/publishing/configuring/configuring-project-info)
+  - [Preview Videos](https://developers.snap.com/lens-studio/publishing/configuring/creating-a-preview-video)
+  - [Creating an Icon](https://developers.snap.com/lens-studio/publishing/configuring/creating-an-icon)
+  - [Lens Hints](https://developers.snap.com/lens-studio/publishing/configuring/lens-hints)
   - [Scene Manager](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/scene-manager)
   - [Wired Parameters](https://developers.snap.com/lens-studio/lens-studio-workflow/adding-interactivity/wired-parameters)
   - [Asset Packages Introduction](https://developers.snap.com/lens-studio/lens-studio-workflow/advanced/package-management/asset-packages-introduction)
@@ -92,20 +71,20 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Installed Content Preferences](https://developers.snap.com/lens-studio/lens-studio-workflow/advanced/package-management/installed-content-preferences)
 #### Optimizing your Lens
 - **Guides**
-  - 3D Optimization
-  - Compression
-  - Mobile Monitor and Trace Analysis [Beta]
-  - Mobile Lens Profiler Case Study
-  - Performance and Optimization for Lenses
-  - Lens Quality Assurance Troubleshooting
-  - Texture Optimization
+  - [3D Optimization](https://developers.snap.com/lens-studio/publishing/optimization/3d-meshes)
+  - [Compression](https://developers.snap.com/lens-studio/publishing/optimization/overview)
+  - [Mobile Monitor and Trace Analysis (Beta)](https://developers.snap.com/lens-studio/publishing/optimization/mobile-monitor)
+  - [Mobile Lens Profiler Case Study](https://developers.snap.com/lens-studio/publishing/optimization/mobile-lens-profiler-case-study)
+  - [Performance and Optimization for Lenses](https://developers.snap.com/lens-studio/publishing/optimization/performance-optimization-guide)
+  - [Lens Quality Assurance Troubleshooting](https://developers.snap.com/lens-studio/publishing/optimization/lens-qa-troubleshooting)
+  - [Texture Optimization](https://developers.snap.com/lens-studio/publishing/optimization/texture-optimization)
 #### Submitting your Lens
 - **Guides**
-  - Submission Guidelines
-  - Lens Visibility
-  - Lens Analytics
-  - Lens Creator Rewards
-  - Submitting Your Lens
+  - [Submission Guidelines](https://developers.snap.com/lens-studio/publishing/submitting/submission-guidelines)
+  - [Lens Visibility](https://developers.snap.com/lens-studio/publishing/submitting/lens-visibility-settings)
+  - [Lens Analytics](https://developers.snap.com/lens-studio/publishing/submitting/lens-analytics)
+  - [Lens Creator Rewards](https://developers.snap.com/lens-studio/publishing/submitting/lens-creator-rewards)
+  - [Submitting Your Lens](https://developers.snap.com/lens-studio/publishing/submitting/submitting-your-lens)
 
 
 
@@ -370,6 +349,18 @@ This is a collection of the template projects included with [Lens Studio](https:
 - **Templates**
   - [High Score](https://developers.snap.com/lens-studio/features/persistent-cloud-storage/persistent-cloud-storage-templates/high-score)
   - [Simple High Score](https://developers.snap.com/lens-studio/features/persistent-cloud-storage/persistent-cloud-storage-templates/simple-high-score)
+ 
+#### Plugins
+- **Guides**
+  - [Overview](https://developers.snap.com/lens-studio/extending-lens-studio/plugins/overview)
+  - [Plugin development Overview](https://developers.snap.com/lens-studio/extending-lens-studio/plugins-development/overview)
+  - [Basic Structures](https://developers.snap.com/lens-studio/extending-lens-studio/plugins-development/basic-structures)
+  - [Best Practices](https://developers.snap.com/lens-studio/extending-lens-studio/plugins-development/best-practices)
+  - [Building Plugins](https://developers.snap.com/lens-studio/extending-lens-studio/plugins-development/building-plugins)
+  - [Common Tasks](https://developers.snap.com/lens-studio/extending-lens-studio/plugins-development/common-tasks)
+  - [Figma Importer Plugin](https://developers.snap.com/lens-studio/extending-lens-studio/plugins/figma-plugin)
+  - [Managing Plugins](https://developers.snap.com/lens-studio/extending-lens-studio/plugins-development/managing-plugins)
+  - [Transitions Library Plugin](https://developers.snap.com/lens-studio/extending-lens-studio/plugins/transitions-library)
 
 #### Physics
 - **Guides**
@@ -448,8 +439,8 @@ This is a collection of the template projects included with [Lens Studio](https:
 
 #### Sponsored Lenses
 - **Guides**
-  - Shopping Lens
-  - True Size Objects
+  - [Shopping Lens](https://developers.snap.com/lens-studio/sponsored/sponsored-lens-templates/shopping/surface-objects)
+  - [True Size Objects](https://developers.snap.com/lens-studio/sponsored/sponsored-lens-templates/shopping/true-size-objects)
 
 #### Texturing
 - **Guides**
