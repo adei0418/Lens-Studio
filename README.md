@@ -8,14 +8,40 @@ This is a collection of the template projects included with [Lens Studio](https:
 - [Highlighted Content](#highlighted-content)
 - [Templates & Guides](#templates--guides)
   - [Audio](#audio)
-  - [Body Tracking](#body-tracking)
-  - [Face Tracking](#face-tracking)
-  - [Hand Tracking](#hand-tracking)
-  - [World Tracking](#world-tracking)
-  - [Animations](#animations)
-  - [Audio](#audio)
+  - [Animation](#animation)
+  - [Asset Library](#asset-library)
   - [Bitmoji Avatar](#bitmoji-avatar)
+  - [Body Tracking](#body-tracking)
   - [Connected Lenses](#connected-lenses)
+  - [Exporting](#exporting)
+  - [Face Tracking](#face-tracking)
+  - [GenAI Suite](#genai-suite)
+  - [Hand Tracking](#hand-tracking)
+  - [Importing](#importing)
+  - [Lens Cloud](#lens-cloud)
+  - [Lights Cameras Shadows](#lights-cameras-shadows)
+  - [Location AR](#location-ar)
+  - [Materials](#materials)
+  - [Particles](#particles)
+  - [Persistent Storage](#persistent-storage)
+  - [Publishing]
+  - [Plugins](#plugins)
+    - [Configuring](#configuring)
+    - [Distrubting](#distrubting)
+    - [Optimizing](#optimizing)
+    - [Submitting](#sumbitting)
+  - [Physics](#physics)
+  - [Ray Tracing](#ray-tracing)
+  - [Remote APIs](#remote-apis)
+  - [Scripting](#scripting)
+  - [SnapML]($snapml)
+  - [Sponsored Lenses]
+  - [Texturing](#texturing)
+  - [Text](#text)
+  - [UI](#ui)
+  - [User Friends Leaderboard](#user-friends-leaderboard)
+  - [Voice ML](#voice-ml)
+  - [World Tracking](#world-tracking)
 - [Assets](#assets)
 - [Utils](#utils)
 - [Plugins](#plugins)
@@ -37,55 +63,15 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Workspaces](https://developers.snap.com/lens-studio/lens-studio-workflow/lens-studio-interface/workspaces)
   - [Importing and Exporting Resources](https://developers.snap.com/lens-studio/assets-pipeline/importing-and-exporting-resources)
   - [Migrating from Meta Spark to Lens Studio](https://developers.snap.com/lens-studio/overview/migrating-to-lens-studio/lens-studio-for-spark)
+  - [Migrating to Lens Studio 5](https://developers.snap.com/lens-studio/overview/migrating-to-lens-studio/migrating-to-lens-studio-5)
   - [Lens Studio for Unity Developers](https://developers.snap.com/lens-studio/overview/migrating-to-lens-studio/lens-studio-for-unity)
 
 ## Highlighted Content
 
-[Migrating to Lens Studio 5](https://developers.snap.com/lens-studio/overview/migrating-to-lens-studio/migrating-to-lens-studio-5)
-
-[Lens Creator Rewards](https://developers.snap.com/lens-studio/publishing/submitting/lens-creator-rewards)
 
 [Snap AR](https://www.youtube.com/@SnapAR) offers an extensive range of tutorials across various categories to help you create and enhance your lenses.
 
 ![image](https://github.com/user-attachments/assets/8e615eff-05ad-4b17-b35c-327c9c1305bb)
-
-### Publishing a Lens
-
-#### Distrubting your Lens
-- **Guides**
-  - [Lens Discovery](https://developers.snap.com/lens-studio/publishing/distributing/lens-discovery)
-  - [Sharing Your Lens](https://developers.snap.com/lens-studio/publishing/distributing/sharing-your-lens)
-  - [Snapcodes](https://developers.snap.com/lens-studio/publishing/distributing/snapcodes)
-  - [Snap Kit](https://developers.snap.com/lens-studio/publishing/distributing/snap-kit)
-  - [Unlocking Lenses](https://developers.snap.com/lens-studio/publishing/distributing/unlocking-lenses)
-#### Configuring your Project
-- **Guides**
-  - [Configuring Project Settings](https://developers.snap.com/lens-studio/publishing/configuring/configuring-project-info)
-  - [Preview Videos](https://developers.snap.com/lens-studio/publishing/configuring/creating-a-preview-video)
-  - [Creating an Icon](https://developers.snap.com/lens-studio/publishing/configuring/creating-an-icon)
-  - [Lens Hints](https://developers.snap.com/lens-studio/publishing/configuring/lens-hints)
-  - [Scene Manager](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/scene-manager)
-  - [Wired Parameters](https://developers.snap.com/lens-studio/lens-studio-workflow/adding-interactivity/wired-parameters)
-  - [Asset Packages Introduction](https://developers.snap.com/lens-studio/lens-studio-workflow/advanced/package-management/asset-packages-introduction)
-  - [Package Library Management](https://developers.snap.com/lens-studio/lens-studio-workflow/advanced/package-management/package-library-management)
-  - [Installed Content Preferences](https://developers.snap.com/lens-studio/lens-studio-workflow/advanced/package-management/installed-content-preferences)
-#### Optimizing your Lens
-- **Guides**
-  - [3D Optimization](https://developers.snap.com/lens-studio/publishing/optimization/3d-meshes)
-  - [Compression](https://developers.snap.com/lens-studio/publishing/optimization/overview)
-  - [Mobile Monitor and Trace Analysis (Beta)](https://developers.snap.com/lens-studio/publishing/optimization/mobile-monitor)
-  - [Mobile Lens Profiler Case Study](https://developers.snap.com/lens-studio/publishing/optimization/mobile-lens-profiler-case-study)
-  - [Performance and Optimization for Lenses](https://developers.snap.com/lens-studio/publishing/optimization/performance-optimization-guide)
-  - [Lens Quality Assurance Troubleshooting](https://developers.snap.com/lens-studio/publishing/optimization/lens-qa-troubleshooting)
-  - [Texture Optimization](https://developers.snap.com/lens-studio/publishing/optimization/texture-optimization)
-#### Submitting your Lens
-- **Guides**
-  - [Submission Guidelines](https://developers.snap.com/lens-studio/publishing/submitting/submission-guidelines)
-  - [Lens Visibility](https://developers.snap.com/lens-studio/publishing/submitting/lens-visibility-settings)
-  - [Lens Analytics](https://developers.snap.com/lens-studio/publishing/submitting/lens-analytics)
-  - [Lens Creator Rewards](https://developers.snap.com/lens-studio/publishing/submitting/lens-creator-rewards)
-  - [Submitting Your Lens](https://developers.snap.com/lens-studio/publishing/submitting/submitting-your-lens)
-
 
 
 ### Templates & Guides
@@ -215,9 +201,6 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Hair Component](https://developers.snap.com/lens-studio/features/ar-tracking/face/hair-simulation)
   - [Head Binding](https://developers.snap.com/lens-studio/features/ar-tracking/face/head-attached-3d-objects)
   - [Working with Multiple Faces](https://developers.snap.com/lens-studio/features/ar-tracking/face/working-with-multiple-faces)
-
- 
-  
 - **Templates**
   - [2D Objects](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/2d-objects)
   - [3D Objects](https://developers.snap.com/lens-studio/features/ar-tracking/face/face-templates/3d-objects)
@@ -291,7 +274,7 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Remote Assets](https://developers.snap.com/lens-studio/features/lens-cloud/remote-assets-overview)
  
 
-#### Lights, Cameras and Shadows
+#### Lights Cameras Shadows
 - **Guides**
   - [Light and Shadow](https://developers.snap.com/lens-studio/features/graphics/light-and-shadow)
   - [Environment Matching](https://developers.snap.com/lens-studio/features/graphics/ml-environment-matching)
@@ -362,6 +345,44 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Managing Plugins](https://developers.snap.com/lens-studio/extending-lens-studio/plugins-development/managing-plugins)
   - [Transitions Library Plugin](https://developers.snap.com/lens-studio/extending-lens-studio/plugins/transitions-library)
 
+### Publishing
+
+#### Configuring
+- **Guides**
+  - [Configuring Project Settings](https://developers.snap.com/lens-studio/publishing/configuring/configuring-project-info)
+  - [Preview Videos](https://developers.snap.com/lens-studio/publishing/configuring/creating-a-preview-video)
+  - [Creating an Icon](https://developers.snap.com/lens-studio/publishing/configuring/creating-an-icon)
+  - [Lens Hints](https://developers.snap.com/lens-studio/publishing/configuring/lens-hints)
+  - [Scene Manager](https://developers.snap.com/lens-studio/lens-studio-workflow/scene-set-up/scene-manager)
+  - [Wired Parameters](https://developers.snap.com/lens-studio/lens-studio-workflow/adding-interactivity/wired-parameters)
+  - [Asset Packages Introduction](https://developers.snap.com/lens-studio/lens-studio-workflow/advanced/package-management/asset-packages-introduction)
+  - [Package Library Management](https://developers.snap.com/lens-studio/lens-studio-workflow/advanced/package-management/package-library-management)
+  - [Installed Content Preferences](https://developers.snap.com/lens-studio/lens-studio-workflow/advanced/package-management/installed-content-preferences)
+#### Distrubting
+- **Guides**
+  - [Lens Discovery](https://developers.snap.com/lens-studio/publishing/distributing/lens-discovery)
+  - [Sharing Your Lens](https://developers.snap.com/lens-studio/publishing/distributing/sharing-your-lens)
+  - [Snapcodes](https://developers.snap.com/lens-studio/publishing/distributing/snapcodes)
+  - [Snap Kit](https://developers.snap.com/lens-studio/publishing/distributing/snap-kit)
+  - [Unlocking Lenses](https://developers.snap.com/lens-studio/publishing/distributing/unlocking-lenses)
+#### Optimizing
+- **Guides**
+  - [3D Optimization](https://developers.snap.com/lens-studio/publishing/optimization/3d-meshes)
+  - [Compression](https://developers.snap.com/lens-studio/publishing/optimization/overview)
+  - [Mobile Monitor and Trace Analysis (Beta)](https://developers.snap.com/lens-studio/publishing/optimization/mobile-monitor)
+  - [Mobile Lens Profiler Case Study](https://developers.snap.com/lens-studio/publishing/optimization/mobile-lens-profiler-case-study)
+  - [Performance and Optimization for Lenses](https://developers.snap.com/lens-studio/publishing/optimization/performance-optimization-guide)
+  - [Lens Quality Assurance Troubleshooting](https://developers.snap.com/lens-studio/publishing/optimization/lens-qa-troubleshooting)
+  - [Texture Optimization](https://developers.snap.com/lens-studio/publishing/optimization/texture-optimization)
+#### Submitting
+- **Guides**
+  - [Submission Guidelines](https://developers.snap.com/lens-studio/publishing/submitting/submission-guidelines)
+  - [Lens Visibility](https://developers.snap.com/lens-studio/publishing/submitting/lens-visibility-settings)
+  - [Lens Analytics](https://developers.snap.com/lens-studio/publishing/submitting/lens-analytics)
+  - [Lens Creator Rewards](https://developers.snap.com/lens-studio/publishing/submitting/lens-creator-rewards)
+  - [Submitting Your Lens](https://developers.snap.com/lens-studio/publishing/submitting/submitting-your-lens)
+
+
 #### Physics
 - **Guides**
   - [Physics Overview](https://developers.snap.com/lens-studio/features/physics/physics-overview)
@@ -387,6 +408,16 @@ This is a collection of the template projects included with [Lens Studio](https:
 - **Templates**
   - [Ray Tracing - Reflections](https://developers.snap.com/lens-studio/features/graphics/raytracing/raytracing-templates/raytracing-reflections)
 
+#### Remote APIs
+- **Guides**
+  - [Remote Service Module](https://developers.snap.com/lens-studio/features/remote-apis/remote-service-module)
+  - [AccuWeather API](https://developers.snap.com/lens-studio/features/remote-apis/weather-api-documentation)
+  - [ChatGPT API](https://developers.snap.com/lens-studio/features/remote-apis/chatgpt-api)
+  - [Snapchat Places API](https://developers.snap.com/lens-studio/features/remote-apis/snap-places-api)
+- **Examples**
+  - [Alpaca API Example](https://developers.snap.com/lens-studio/features/remote-apis/remote-apis-templates/stock-market-api)
+  - [AccuWeather API Example](https://developers.snap.com/lens-studio/features/remote-apis/remote-apis-templates/weather-api)
+    
   
 #### Scripting
 - **Guides**
@@ -458,16 +489,6 @@ This is a collection of the template projects included with [Lens Studio](https:
 - **Templates**
   - [3D Text](https://developers.snap.com/lens-studio/examples/lens-examples/3d-text)
     
-#### Remote APIs
-- **Guides**
-  - [Remote Service Module](https://developers.snap.com/lens-studio/features/remote-apis/remote-service-module)
-  - [AccuWeather API](https://developers.snap.com/lens-studio/features/remote-apis/weather-api-documentation)
-  - [ChatGPT API](https://developers.snap.com/lens-studio/features/remote-apis/chatgpt-api)
-  - [Snapchat Places API](https://developers.snap.com/lens-studio/features/remote-apis/snap-places-api)
-- **Examples**
-  - [Alpaca API Example](https://developers.snap.com/lens-studio/features/remote-apis/remote-apis-templates/stock-market-api)
-  - [AccuWeather API Example](https://developers.snap.com/lens-studio/features/remote-apis/remote-apis-templates/weather-api)
-    
 #### UI
 - **Guides**
   - [Dynamic Response](https://developers.snap.com/lens-studio/features/prompt-response/dynamic-response)
@@ -500,7 +521,7 @@ This is a collection of the template projects included with [Lens Studio](https:
   - [Tappable Question](https://developers.snap.com/lens-studio/features/prompt-response/tappable-question)
   - [What x Are You Spinner](https://developers.snap.com/lens-studio/examples/lens-examples/What-x-are-you-spinner)
 
-#### User, Friends & Leaderboard
+#### User Friends Leaderboard
 - **Guides**
   - [User Context Overview](https://developers.snap.com/lens-studio/features/user-context/overview)
   - [Friends Components](https://developers.snap.com/lens-studio/features/user-context/friends-component)
