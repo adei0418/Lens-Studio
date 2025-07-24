@@ -5,3 +5,5 @@ See the [documentation site](https://lensstudio.snapchat.com/templates/) for gui
 
 ## License
 A license file is included with each template project. The full license can be found here: [https://lensstudio.snapchat.com/template-license](https://lensstudio.snapchat.com/template-license)
+## Calculator
+Open `calculator.html` in a browser to use a simple calculator interface designed for web.
