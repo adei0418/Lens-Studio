@@ -128,8 +128,9 @@ practical workflow is:
 
 ### Git conventions
 
-- Active development branch for this work: `claude/claude-md-docs-5ow5mq`. Create it locally if
-  missing; do not push to other branches without explicit permission.
+- Develop on the branch selected by the user or the environment for the current task; create it
+  locally if it doesn't exist. Do not push to `main` or other branches without explicit
+  permission.
 - Always push with `git push -u origin <branch-name>`; retry network failures with exponential
   backoff.
 - **Do not open a pull request unless explicitly asked.**
