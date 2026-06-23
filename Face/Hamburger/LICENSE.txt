@@ -1,0 +1,3 @@
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+This directory contains no binary assets. The burger image referenced in the README is sourced from Openverse and is released under CC0.

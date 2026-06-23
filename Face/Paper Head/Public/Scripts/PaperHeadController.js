@@ -465,7 +465,7 @@ function configureAnimatedMouth()
             }
             else
             {
-                print( "PaperHeadController,  ERROR: Please assign a 2D Animated Texture file in the mouth  's texture input" );
+                print( "PaperHeadController, ERROR: Please assign a 2D Animated Texture file in the mouth's texture input" );
                 return;
             }
         }
